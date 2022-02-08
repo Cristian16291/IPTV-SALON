@@ -1,0 +1,718 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 xui-id="2420" tvg-id="INCMVAL" tvg-name="ESPAÑA | LA 1 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t1yvR9bSYzUsiddyPBfm-CSgVk57ZM5N_9jp5ZiEHWRvg.png" group-title="ESPAÑA",ESPAÑA | LA 1 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNdoZIXsMRd3RysIR9pumg0
+#EXTINF:-1 xui-id="2364" tvg-id="LA1HD" tvg-name="ESPAÑA | LA 1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t0uommjVMZx9pRkAqCVMqUXd2kH0rl5AJIuAI4pfcUz7A.png" group-title="ESPAÑA",ESPAÑA | LA 1 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DG88bV-HtFyk_fZT2vCSfkI
+#EXTINF:-1 xui-id="2419" tvg-id="LA1HD" tvg-name="ESPAÑA | LA 1 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t0uommjVMZx9pRkAqCVMqUXd2kH0rl5AJIuAI4pfcUz7A.png" group-title="ESPAÑA",ESPAÑA | LA 1 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKaZfQZHkW0UKyENYYmolkg
+#EXTINF:-1 xui-id="2423" tvg-id="LA2" tvg-name="ESPAÑA | LA 2 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwW0wAUWdS4DFwj_2Wt3jCUjXSygxWoT-irJeMcamR3x3A.png" group-title="ESPAÑA",ESPAÑA | LA 2 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCci9Ayj4umz_y0yeMz39rA
+#EXTINF:-1 xui-id="2365" tvg-id="LA2HD" tvg-name="ESPAÑA  | La 2 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t1_WttQ-qD6HWxBh0peop_xU4VGcuoKtcg9gjMSWFdKcg.png" group-title="ESPAÑA",ESPAÑA  | La 2 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGuARBqoL0OL6Kon5Z-4LGY
+#EXTINF:-1 xui-id="2422" tvg-id="LA2HD" tvg-name="ESPAÑA | LA 2 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t1_WttQ-qD6HWxBh0peop_xU4VGcuoKtcg9gjMSWFdKcg.png" group-title="ESPAÑA",ESPAÑA | LA 2 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DEKoX2_9xM9XjMd-3tZb8-g
+#EXTINF:-1 xui-id="2426" tvg-id="ANTENA3" tvg-name="ESPAÑA | ANTENA 3 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/a6c26d00d7538e5c311dd5790c403ed6.png" group-title="ESPAÑA",ESPAÑA | ANTENA 3 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGib2mxtyNcMd5cI-R-83dM
+#EXTINF:-1 xui-id="2424" tvg-id="ANTENA3" tvg-name="ESPAÑA | ANTENA 3 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/a6c26d00d7538e5c311dd5790c403ed6.png" group-title="ESPAÑA",ESPAÑA | ANTENA 3 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DHGC4ceB1jpHIJmWZNYQshY
+#EXTINF:-1 xui-id="2425" tvg-id="ANTENA3" tvg-name="ESPAÑA | ANTENA 3 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/a6c26d00d7538e5c311dd5790c403ed6.png" group-title="ESPAÑA",ESPAÑA | ANTENA 3 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DORq2qLWWIn_dpChBu--7XY
+#EXTINF:-1 xui-id="4027" tvg-id="ANT3I" tvg-name="ESPAÑA | ANTENA 3 INTERNACIONAL FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/d8535cc4daca05c11d15ffbff4f881b4.jpg" group-title="ESPAÑA",ESPAÑA | ANTENA 3 INTERNACIONAL FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DICT7Xt1Zjv24mtF0X9P2vE
+#EXTINF:-1 xui-id="2429" tvg-id="CUATRO" tvg-name="ESPAÑA | CUATRO SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1GAaOpsJ3S5sUlYg-N4IL-8SV-_UMt4L_1w0uWOGFHSwlWbCp2qYA7VkQjqWTgcjXg.png" group-title="ESPAÑA",ESPAÑA | CUATRO SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DFkzgfBAa-ctVpMU_wpvX6M
+#EXTINF:-1 xui-id="2367" tvg-id="CUATRHD" tvg-name="ESPAÑA | Cuatro HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t28eaVgclL2HSfvtqxTe7fIldV-9P30IqWAJrUGETa5VA.png" group-title="ESPAÑA",ESPAÑA | Cuatro HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJen65cypSCDwkoDtZL60xE
+#EXTINF:-1 xui-id="2428" tvg-id="CUATRHD" tvg-name="ESPAÑA | CUATRO FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t28eaVgclL2HSfvtqxTe7fIldV-9P30IqWAJrUGETa5VA.png" group-title="ESPAÑA",ESPAÑA | CUATRO FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DH8OmsE4mKkHVZgI_okqY7g
+#EXTINF:-1 xui-id="2432" tvg-id="TELECIN" tvg-name="ESPAÑA | TELECINCO SD" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="ESPAÑA",ESPAÑA | TELECINCO SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DOwiPXVnkfJeIRg1N6E73HU
+#EXTINF:-1 xui-id="2430" tvg-id="TELECIN" tvg-name="ESPAÑA | TELECINCO HD" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="ESPAÑA",ESPAÑA | TELECINCO HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DBgyZDans0OW3IhfvBtO9p4
+#EXTINF:-1 xui-id="2431" tvg-id="TELECIN" tvg-name="ESPAÑA | TELECINCO FHD" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="ESPAÑA",ESPAÑA | TELECINCO FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCWMZowBD-lNegiQbbEW6_g
+#EXTINF:-1 xui-id="2435" tvg-id="LASEXTA" tvg-name="ESPAÑA | LA SEXTA SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1GAaOpsJ3S5sUlYg-N4IL-983goXXb-xgXtnV9lKTBLbVbOIFdGl5c1mFCs-rtUf5w.png" group-title="ESPAÑA",ESPAÑA | LA SEXTA SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DMAIiWwOPJ6u0BALbd8ywR4
+#EXTINF:-1 xui-id="2433" tvg-id="SEXTHD" tvg-name="ESPAÑA | LA SEXTA HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t2kVuLN8FCpG2mBraE2D_w90nQVVl7q4kwUsOqEaOHL_w.png" group-title="ESPAÑA",ESPAÑA | LA SEXTA HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DAOXEKukreQ1Zdrc_D-n-1k
+#EXTINF:-1 xui-id="2434" tvg-id="SEXTHD" tvg-name="ESPAÑA | LA SEXTA FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t2kVuLN8FCpG2mBraE2D_w90nQVVl7q4kwUsOqEaOHL_w.png" group-title="ESPAÑA",ESPAÑA | LA SEXTA FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DDcv1dM0IuRvW9jgf_es27Y
+#EXTINF:-1 xui-id="2395" tvg-id="CEROHD" tvg-name="ESPAÑA | Canal 0 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoLML7JWb1WZKrplDo0yp_mg.png" group-title="ESPAÑA",ESPAÑA | Canal 0 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNgV1oQ_mFV7S6FEf1g4Pok
+#EXTINF:-1 xui-id="2600" tvg-id="CEROHD" tvg-name="ESPAÑA | #0 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwVaKMNR-GSum1hnteYDDhwsR7f6eGyLcxQYkslNQgA28w.png" group-title="ESPAÑA CINE",ESPAÑA | #0 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DMDICH45T_8c1l94cNFE3pk
+#EXTINF:-1 xui-id="2502" tvg-id="VAMOS" tvg-name="ES | VAMOS" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo12A2X99fhsg1fXM0HEWuuQ.png" group-title="ESPAÑA DEPORTES",ES | VAMOS
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DK8YF9Dz7gaaV4oSgu3cmow
+#EXTINF:-1 xui-id="2501" tvg-id="VAMOS" tvg-name="ES | #VAMOS HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo12A2X99fhsg1fXM0HEWuuQ.png" group-title="ESPAÑA DEPORTES",ES | #VAMOS HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DHG-CdnJ4Ja8D3e5o1gtH0E
+#EXTINF:-1 xui-id="2487" tvg-id="VAMOS" tvg-name="ES | Vamos FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo12A2X99fhsg1fXM0HEWuuQ.png" group-title="ESPAÑA DEPORTES",ES | Vamos FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCRbGnZiwYxMNcM9SauL_xs
+#EXTINF:-1 xui-id="2466" tvg-id="GALTVE" tvg-name="ESPAÑA | TVG" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwUZa7mMw6YnXSpjjBLXhthmT2SbgOHWbBcrhA_DwCiLfQ.png" group-title="ESPAÑA",ESPAÑA | TVG
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNMee5CpJM-rAuthZfgvprs
+#EXTINF:-1 xui-id="2405" tvg-id="TELEMAD" tvg-name="ESPAÑA | Telemadrid" tvg-logo="http://quebuscasaqui.xyz:8080/images/2d76814551c61d2c93a8afb21544b4a1.png" group-title="ESPAÑA",ESPAÑA | Telemadrid
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKJIhKAOq_3OYysgdQ_k4cc
+#EXTINF:-1 xui-id="3700" tvg-id="ETB1" tvg-name="ESPAÑA | ETB 1" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t13guHxatoMa58WYKdR1-T_O8Tr3xR-XMgq5WH_8dDz7g.png" group-title="ESPAÑA",ESPAÑA | ETB 1
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DM41mpqhL99jKSE4sYTP4UE
+#EXTINF:-1 xui-id="3701" tvg-id="ETB2" tvg-name="ESPAÑA | ETB 2" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t2VnE9jPy-TNh0pYJPS0AHLdBOigxlImFN4qQy7vUU4xg.png" group-title="ESPAÑA",ESPAÑA | ETB 2
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKV91ZyXa9oxGzHzGk5xO_M
+#EXTINF:-1 xui-id="2376" tvg-id="CANLSUR" tvg-name="ESPAÑA | CANAL SUR" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1O9P7PZUgQ04bYRnCh6HayzWk5NkW1qEauxz_miMpjUXK7DmvonAV2hiw9WXAGPmSQ.png" group-title="ESPAÑA",ESPAÑA | CANAL SUR
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DBLvqF0z4HamtxdQ9eBQB5g
+#EXTINF:-1 xui-id="2400" tvg-id="" tvg-name="ESPAÑA | Canal Malaga" tvg-logo="http://quebuscasaqui.xyz:8080/images/79ab8b829160430036e6279925d16d38.jpg" group-title="ESPAÑA",ESPAÑA | Canal Malaga
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DHiOEo2U6fwTiLuBoyWPBB0
+#EXTINF:-1 xui-id="2399" tvg-id="EXTMADU" tvg-name="ESPAÑA | Canal Extremadura" tvg-logo="http://quebuscasaqui.xyz:8080/images/c739de524fb154d0c4a33dbd89c2aa56.png" group-title="ESPAÑA",ESPAÑA | Canal Extremadura
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGjZ-T-o713OGMxULnG7in0
+#EXTINF:-1 xui-id="2406" tvg-id="ARAGON" tvg-name="ESPAÑA |  Aragón TV" tvg-logo="http://quebuscasaqui.xyz:8080/images/c4ee7ca67a2aa4364948f3a9233bbaa9.png" group-title="ESPAÑA",ESPAÑA |  Aragón TV
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DIqJzb4UwzjiV_5xK-j0Aas
+#EXTINF:-1 xui-id="2370" tvg-id="ARAGON" tvg-name="ESPAÑA | Aragon TV HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/57d4745715a67138a91ea0dd326a8e26.png" group-title="ESPAÑA",ESPAÑA | Aragon TV HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPzKBLE5eara7D1OLS29LVM
+#EXTINF:-1 xui-id="2371" tvg-id="ANDALTV" tvg-name="ESPAÑA | Andalucia TV HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1O9P7PZUgQ04bYRnCh6Hayy2NrLc4e7tTq3OHY1P8YWHeXNZSXFIcy5_BsrrnRT_dA.png" group-title="ESPAÑA",ESPAÑA | Andalucia TV HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPC9zDsvtwWNr81_yfKRXWY
+#EXTINF:-1 xui-id="2575" tvg-id="MSERHD" tvg-name="ESPAÑA | Movistar Series HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoMi_Oz_hLAYtANAccyKWNQA.png" group-title="ESPAÑA CINE",ESPAÑA | Movistar Series HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCMh2hWaoLL0vfyv1v9v278
+#EXTINF:-1 xui-id="2576" tvg-id="M+ SERIES 2 HD" tvg-name="ESPAÑA | MOVISTAR SERIES 2" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoljk_HZ4PemUdftJiCOcGqw.png" group-title="ESPAÑA CINE",ESPAÑA | MOVISTAR SERIES 2
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNnIxYwSmHvBt9DFs4H4Uxk
+#EXTINF:-1 xui-id="2569" tvg-id="FOXESHD" tvg-name="ESPAÑA | Fox HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwXPKGS4ZwCVrys6cTKe7X1dAP7-g_oQEkLOMZhrPwsFAw.png" group-title="ESPAÑA CINE",ESPAÑA | Fox HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCKelKF7ghDMvuTnuZmCSZ4
+#EXTINF:-1 xui-id="2561" tvg-id="AXNHDSP" tvg-name="ESPAÑA | AXN HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwUv7wl77iwrpEXKayHQcAXCH8QaYJccuvGfh1RQpYr2tw.png" group-title="ESPAÑA CINE",ESPAÑA | AXN HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DFMQ9EaP8rBhu3snGDMatYo
+#EXTINF:-1 xui-id="2579" tvg-id="TNTSPHD" tvg-name="ESPAÑA | TNT HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t19iacTZOX3jVaxqtAWaEfKixIieWpQTPXAqqQFVcm6AA.png" group-title="ESPAÑA CINE",ESPAÑA | TNT HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DFTBN72pUXDKdEWeXUje3qQ
+#EXTINF:-1 xui-id="2565" tvg-id="COCECH" tvg-name="ESPAÑA | Comedy Central HD" tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_Black-01.png?height=1024" group-title="ESPAÑA CINE",ESPAÑA | Comedy Central HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DF8kG_g_Xlx-FLD0gup5eYk
+#EXTINF:-1 xui-id="2564" tvg-id="CALLE13" tvg-name="ESPAÑA | Calle 13 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/baab32424c53615375c9ca685cbf6b27.png" group-title="ESPAÑA CINE",ESPAÑA | Calle 13 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DK1oxjMM_QwrKArB7d4aYQk
+#EXTINF:-1 xui-id="2382" tvg-id="COSESPH" tvg-name="ESPAÑA | Cosmo HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwVR9UedDDSPSDIxWNMqE4DhBAKkt78c2TNEcEv4AVp3Tw.png" group-title="ESPAÑA",ESPAÑA | Cosmo HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKLNy7XibkT4ZA3v7bBYGFE
+#EXTINF:-1 xui-id="2560" tvg-id="AMCESHD" tvg-name="ESPAÑA | AMC HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwWCqInkTcBEWpnlsEah3nNCD_SAoG1xKa--bnsUtAssvQ.png" group-title="ESPAÑA CINE",ESPAÑA | AMC HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGDNZjoMd9tJCWTCHsX6dM4
+#EXTINF:-1 xui-id="2562" tvg-id="AXNWESP" tvg-name="ESPAÑA | AXN White HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/8fc9afb488d2a5884490ca18d78a2888.png" group-title="ESPAÑA CINE",ESPAÑA | AXN White HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DBxKE9sPoqJGdrmFssQLg_E
+#EXTINF:-1 xui-id="2581" tvg-id="SYFYSHD" tvg-name="ESPAÑA | SyFy HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t1bfb4pFQO4fYPm-9TvaT8kZbXKSvVhKdlh3APr89PDrw.png" group-title="ESPAÑA CINE",ESPAÑA | SyFy HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DIkcI-qbwFoKnOdPtJa5YiM
+#EXTINF:-1 xui-id="2442" tvg-id="ENERGYE" tvg-name="ESPAÑA | ENERGY SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwXzGmVnWgNVswG7pn5-np-AQZpMTT6vVlCvN_iOPywBHQ.png" group-title="ESPAÑA",ESPAÑA | ENERGY SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DC_NMd1Ke2tQ6b4hfsffe1s
+#EXTINF:-1 xui-id="2567" tvg-id="ENERGYE" tvg-name="ESPAÑA | Energy HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwXzGmVnWgNVswG7pn5-np-AQZpMTT6vVlCvN_iOPywBHQ.png" group-title="ESPAÑA CINE",ESPAÑA | Energy HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DMhuakom2UlYOozahdPfudQ
+#EXTINF:-1 xui-id="2440" tvg-id="ENERGYE" tvg-name="ESPAÑA | ENERGY HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwXzGmVnWgNVswG7pn5-np-AQZpMTT6vVlCvN_iOPywBHQ.png" group-title="ESPAÑA",ESPAÑA | ENERGY HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DBVwrYzLZMsjL129aAM01Pc
+#EXTINF:-1 xui-id="2441" tvg-id="ENERGYE" tvg-name="ESPAÑA | ENERGY FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwXzGmVnWgNVswG7pn5-np-AQZpMTT6vVlCvN_iOPywBHQ.png" group-title="ESPAÑA",ESPAÑA | ENERGY FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DOQep-Xgm8NuNuW_Ij7hukY
+#EXTINF:-1 xui-id="2438" tvg-id="FDFS" tvg-name="ESPAÑA | FDF SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhFGBXkIxx98Y4CQ4zMjcbBdjaYCcveKVcgtUgvuXNJPsA.png" group-title="ESPAÑA",ESPAÑA | FDF SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DE-IjUYydC2fe43hx_6fTVI
+#EXTINF:-1 xui-id="2436" tvg-id="FDFS" tvg-name="ESPAÑA | FDF HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhFGBXkIxx98Y4CQ4zMjcbBdjaYCcveKVcgtUgvuXNJPsA.png" group-title="ESPAÑA",ESPAÑA | FDF HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DFRFXKaiQvcr3lYJXR-DjHU
+#EXTINF:-1 xui-id="2568" tvg-id="FDFS" tvg-name="ESPAÑA | FDF HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhFGBXkIxx98Y4CQ4zMjcbBdjaYCcveKVcgtUgvuXNJPsA.png" group-title="ESPAÑA CINE",ESPAÑA | FDF HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DHC-kTEhWLE_JYL491yOw2E
+#EXTINF:-1 xui-id="2437" tvg-id="FDFS" tvg-name="ESPAÑA | FDF FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhFGBXkIxx98Y4CQ4zMjcbBdjaYCcveKVcgtUgvuXNJPsA.png" group-title="ESPAÑA",ESPAÑA | FDF FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DAps5x3wDfXdVYZDzvzZ0dQ
+#EXTINF:-1 xui-id="2456" tvg-id="NEOX" tvg-name="ESPAÑA | NEOX SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhEZmii5Dr5qT8yoH9yFJSI0dyRq_RYmomUCkEekYOHcLA.png" group-title="ESPAÑA",ESPAÑA | NEOX SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DIGp6uGKY57P79IAS8Wea2E
+#EXTINF:-1 xui-id="2580" tvg-id="NEOXHD" tvg-name="ESPAÑA | Neox HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFVeZ1WlyBf3f1k81e310Kg8smormhbBKmwlxBoWjA_Y0g.png" group-title="ESPAÑA CINE",ESPAÑA | Neox HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DARCCVMCLgumFzruTHgJa0Y
+#EXTINF:-1 xui-id="2454" tvg-id="NEOXHD" tvg-name="ESPAÑA | NEOX HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFVeZ1WlyBf3f1k81e310Kg8smormhbBKmwlxBoWjA_Y0g.png" group-title="ESPAÑA",ESPAÑA | NEOX HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DDDVmD7xWuLhTGBov_R_DhY
+#EXTINF:-1 xui-id="2455" tvg-id="NEOXHD" tvg-name="ESPAÑA | NEOX FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFVeZ1WlyBf3f1k81e310Kg8smormhbBKmwlxBoWjA_Y0g.png" group-title="ESPAÑA",ESPAÑA | NEOX FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNHFKrZkzQj562cn4fkcVFw
+#EXTINF:-1 xui-id="2599" tvg-id="ATRESSD" tvg-name="ESPAÑA  |ATRESERIES SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/17f3a5bce7c56648f0ba96830eec9012.png" group-title="ESPAÑA CINE",ESPAÑA  |ATRESERIES SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DFDXcv2O3mDtKG7GRfv7ikg
+#EXTINF:-1 xui-id="2597" tvg-id="ATRESSD" tvg-name="ESPAÑA | ATRESERIES HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/17f3a5bce7c56648f0ba96830eec9012.png" group-title="ESPAÑA CINE",ESPAÑA | ATRESERIES HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DDOyo6LMktRzYlq3DIzhmqw
+#EXTINF:-1 xui-id="2598" tvg-id="ATRESSD" tvg-name="ESPAÑA | ATRESERIES FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/17f3a5bce7c56648f0ba96830eec9012.png" group-title="ESPAÑA CINE",ESPAÑA | ATRESERIES FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKG_goHtYyWw7Ri-3ScfK6A
+#EXTINF:-1 xui-id="2563" tvg-id="" tvg-name="ESPAÑA | ATRESERIES INT" tvg-logo="http://quebuscasaqui.xyz:8080/images/f8a0db1097be1267767e9e4b045ab209.jpg" group-title="ESPAÑA CINE",ESPAÑA | ATRESERIES INT
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGu0YHzeisRNCdeRmXfzCOw
+#EXTINF:-1 xui-id="2577" tvg-id="MEST" tvg-name="ESPAÑA | Movistar Estrenos HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosS68Snty8-IA6pm_vy8aeg.png" group-title="ESPAÑA CINE",ESPAÑA | Movistar Estrenos HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKhoAnn-LQ498lHhLhTJ28U
+#EXTINF:-1 xui-id="2593" tvg-id="M+ ESTRENOS 2 HD" tvg-name="ESPAÑA | MOVISTAR ESTRENOS 2" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqou-H8LKUiknOOQvG6gbywKA.png" group-title="ESPAÑA CINE",ESPAÑA | MOVISTAR ESTRENOS 2
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DMqONpHHPpFlVc0aTD1auks
+#EXTINF:-1 xui-id="18760" tvg-id="M+ CLÁSICOS HD" tvg-name="UC- M. Clasicos" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoCvfG1f5kSsiArfTkp1PbEQ.png" group-title="ESPAÑA CINE",UC- M. Clasicos
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DAAC-XRd5SchvZwAD0aKeoA5oTI3nC8A-50HAN_Tw8Hh
+#EXTINF:-1 xui-id="2572" tvg-id="MACCI" tvg-name="ESPAÑA | Movistar Accion HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9Y-0PMwiCOVWDLq6Uh6GAg.png" group-title="ESPAÑA CINE",ESPAÑA | Movistar Accion HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DBdW89OaPn48cyY-lmZlGas
+#EXTINF:-1 xui-id="2574" tvg-id="MCOM" tvg-name="ESPAÑA | Movistar Comedia HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoh_bVYH1INiAVpNBfF0lblw.png" group-title="ESPAÑA CINE",ESPAÑA | Movistar Comedia HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCiLrMOyR74zVwIccMyrnqQ
+#EXTINF:-1 xui-id="2601" tvg-id="MDRAM" tvg-name="ESPAÑA | MOVISTAR Drama FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoa2fg__W3CApFsYbsWqH71g.png" group-title="ESPAÑA CINE",ESPAÑA | MOVISTAR Drama FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGIRLzEBGU6zYmskXy_ONo0
+#EXTINF:-1 xui-id="2573" tvg-id="MCINNHD" tvg-name="ESPAÑA | Movistar Cine HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo3x2cKAXCv9g4-xEw-jAOyw.png" group-title="ESPAÑA CINE",ESPAÑA | Movistar Cine HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPrWY80ajJiaoIxAYridUQk
+#EXTINF:-1 xui-id="13231" tvg-id="" tvg-name="UT- M. Fest HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoCVX-ROpdO5NU2gPbucfkHA.png" group-title="ESPAÑA CINE",UT- M. Fest HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJGYpuneBpW3dW-BAyGVEVZYj-mI57aIxM3gprv1bl6d
+#EXTINF:-1 xui-id="13231" tvg-id="" tvg-name="UT- M. Fest HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoCVX-ROpdO5NU2gPbucfkHA.png" group-title="MUSICA",UT- M. Fest HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJGYpuneBpW3dW-BAyGVEVZYj-mI57aIxM3gprv1bl6d
+#EXTINF:-1 xui-id="2582" tvg-id="TCMSPHD" tvg-name="ESPAÑA | TCM HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t3e8_VrjXnrrYRmH9TUXvB_Mkl9YxBCybT-eszB50MuXQ.png" group-title="ESPAÑA CINE",ESPAÑA | TCM HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DFfb9P6oXWWmEpvkPJMjGYk
+#EXTINF:-1 xui-id="3608" tvg-id="CANHOLL" tvg-name="ESPAÑA | Hollywood SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1O9P7PZUgQ04bYRnCh6HaywdZ4_ghP11AzwThtzeM2wlM2FkzjjYujjYZv8azeJypA.png" group-title="ESPAÑA CINE",ESPAÑA | Hollywood SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DC_70E-jSO-DixPUBAgVU0M
+#EXTINF:-1 xui-id="2571" tvg-id="HOLWHD" tvg-name="ESPAÑA | Hollywood HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t2fFykQ-_tp6NXr_sSRbP6q5ZTPBjKstJ9I67lSrsb3jQ.png" group-title="ESPAÑA CINE",ESPAÑA | Hollywood HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCKFIF2dk80tG-yquZG1hGw
+#EXTINF:-1 xui-id="2578" tvg-id="SUNDAHD" tvg-name="ESPAÑA  | SUNDANCE HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t2I6ZHhW564Qk7Z962gu3c1GwtJ7-bjWLG2piOWLJ8mSw.png" group-title="ESPAÑA CINE",ESPAÑA  | SUNDANCE HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DFFQzcyo07L0R8xy0BI9h28
+#EXTINF:-1 xui-id="392" tvg-id="DARKSPA" tvg-name="ESPAÑA | Dark FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t1BiZ4BpRquDx_b3ydjc9_YnL-IRt6oRgRY5KKmrATdag.png" group-title="ESPAÑA CINE",ESPAÑA | Dark FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNmelx-OvQzFrr1rFmNtZ_4
+#EXTINF:-1 xui-id="2439" tvg-id="TRECEES" tvg-name="ESPAÑA | TRECE TV" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwU_Ct6xR4kWGHQx36wvcfqh5ZTaQ4e6yBMdNC7prsoAsA.png" group-title="ESPAÑA",ESPAÑA | TRECE TV
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCMyskqfHJU119882DYoIyU
+#EXTINF:-1 xui-id="2394" tvg-id="TRECEES" tvg-name="ESPAÑA | TRECE TV HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwU_Ct6xR4kWGHQx36wvcfqh5ZTaQ4e6yBMdNC7prsoAsA.png" group-title="ESPAÑA",ESPAÑA | TRECE TV HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DBqByEQyb8P8S2LYm3jgtdM
+#EXTINF:-1 xui-id="2592" tvg-id="PARAFR" tvg-name="ESPAÑA | PARAMOUNT CHANNEL HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/9c7b6f0ead94be8827cdb9120c04a3a6.jpg" group-title="ESPAÑA CINE",ESPAÑA | PARAMOUNT CHANNEL HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DG-usWEoHigHNBZTNr_iW_c
+#EXTINF:-1 xui-id="2444" tvg-id="PARALN" tvg-name="ESPAÑA | PARAMOUNT NETWORK HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/73f6a6e66de394622d82573625eca71e.jpg" group-title="ESPAÑA",ESPAÑA | PARAMOUNT NETWORK HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCEUxyIVqhBO8S16n1BUNls
+#EXTINF:-1 xui-id="19105" tvg-id="SPOPHD" tvg-name="DIRECTV SPORTS FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFV9Rp6ERT0U5G7SuWvmrn2_mvnTS7S48pil2XkDBUP7OQ.png" group-title="ESPAÑA LALIGA",DIRECTV SPORTS FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DLAruO8347S6ExrW2D-Mi-fDAQy2pPWe7O25jima39dN
+#EXTINF:-1 xui-id="4080" tvg-id="M+ LaLiga HD" tvg-name="LALIGA | LA LIGA" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="ESPAÑA LALIGA",LALIGA | LA LIGA
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DIX3KanIP_X7rVQDSo02cqg
+#EXTINF:-1 xui-id="2496" tvg-id="MOLIGA" tvg-name="ES | Movistar Laliga" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="ESPAÑA DEPORTES",ES | Movistar Laliga
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DH_KwAfcJjJ0SsVfpHPF0xM
+#EXTINF:-1 xui-id="2497" tvg-id="MVLGUHD" tvg-name="ES |  LaLiga HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="ESPAÑA DEPORTES",ES |  LaLiga HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DA8UlA46gYZ4pJeNWMFPA8s
+#EXTINF:-1 xui-id="4078" tvg-id="M+ LaLiga HD" tvg-name="LALIGA | LALIGA HD EXTRA" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="ESPAÑA LALIGA",LALIGA | LALIGA HD EXTRA
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DEGZGmE7bd8Joyn6Gh3q8WI
+#EXTINF:-1 xui-id="4081" tvg-id="M+ LaLiga HD" tvg-name="LALIGA | LALIGA FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="ESPAÑA LALIGA",LALIGA | LALIGA FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DEKIDcjHAL4arYE33JWTkwU
+#EXTINF:-1 xui-id="4076" tvg-id="M+ LaLiga HD" tvg-name="LALIGA | LALIGA FHD EXTRA 1" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="ESPAÑA LALIGA",LALIGA | LALIGA FHD EXTRA 1
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPOfqBMPnlxnnlU_Wu7KZzM
+#EXTINF:-1 xui-id="4079" tvg-id="M+ LaLiga HD" tvg-name="LALIGA | LALIGA FHD EXTRA 2" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="ESPAÑA LALIGA",LALIGA | LALIGA FHD EXTRA 2
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DLABUeRluoVdfBtynFfOfRM
+#EXTINF:-1 xui-id="4077" tvg-id="MOLIGA" tvg-name="LALIGA | MOVISTAR LALIGA FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="ESPAÑA LALIGA",LALIGA | MOVISTAR LALIGA FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DMF1qqMAlPIEClZ9GSSbg3g
+#EXTINF:-1 xui-id="2484" tvg-id="MVLGUHD" tvg-name="ES |  LA Liga FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="ESPAÑA DEPORTES",ES |  LA Liga FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DEnFgGr6Fgc4QBmzgDOHvc4
+#EXTINF:-1 xui-id="2513" tvg-id="MVLGUHD" tvg-name="ES | LA LIGA TV 4K (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="ESPAÑA DEPORTES",ES | LA LIGA TV 4K (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGLCJ2Z9UTH24Q7Evu0CJlM
+#EXTINF:-1 xui-id="2513" tvg-id="MVLGUHD" tvg-name="ES | LA LIGA TV 4K (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="ESPAÑA LALIGA",ES | LA LIGA TV 4K (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGLCJ2Z9UTH24Q7Evu0CJlM
+#EXTINF:-1 xui-id="2505" tvg-id="MOVLIG1" tvg-name="ES | MOVISTAR LALIGA 1 (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqooA8YU3VAD7QYJpt9cND7HA.png" group-title="ESPAÑA DEPORTES",ES | MOVISTAR LALIGA 1 (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DO13aDUUajHmOLM9dgLp8hs
+#EXTINF:-1 xui-id="2523" tvg-id="MOVLIG1" tvg-name="ES | M. LaLiga 1 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqooA8YU3VAD7QYJpt9cND7HA.png" group-title="ESPAÑA DEPORTES",ES | M. LaLiga 1 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DOZnpzPwCT_KeFfvSMWFJnc
+#EXTINF:-1 xui-id="2536" tvg-id="MOVLIG1" tvg-name="ES |LALIGA 1 SD (SÓLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqooA8YU3VAD7QYJpt9cND7HA.png" group-title="ESPAÑA DEPORTES",ES |LALIGA 1 SD (SÓLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DLTQNPBMmwImueBaQisId64
+#EXTINF:-1 xui-id="2516" tvg-id="MOVLIG1" tvg-name="ES | MOVISTAR LA LIGA 1 HD HEVC ( SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqooA8YU3VAD7QYJpt9cND7HA.png" group-title="ESPAÑA DEPORTES",ES | MOVISTAR LA LIGA 1 HD HEVC ( SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKry37QUTiIBxzYE7VxMkbA
+#EXTINF:-1 xui-id="2535" tvg-id="MOVLIG1" tvg-name="ES | M. LaLiga 1 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqooA8YU3VAD7QYJpt9cND7HA.png" group-title="ESPAÑA DEPORTES",ES | M. LaLiga 1 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DMUyRVawu9pgGcFYsCwEp1o
+#EXTINF:-1 xui-id="2537" tvg-id="MOVLIG1" tvg-name="ES | LALIGA 1 FHD (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqooA8YU3VAD7QYJpt9cND7HA.png" group-title="ESPAÑA DEPORTES",ES | LALIGA 1 FHD (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKjhjjuK0gygltcIVEw7dh4
+#EXTINF:-1 xui-id="2506" tvg-id="MVLIGA2" tvg-name="ES | MOVISTAR LALIGA 2 (Solo eventos)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoRsdCOjCoKKyXSSj1fNTCmA.png" group-title="ESPAÑA DEPORTES",ES | MOVISTAR LALIGA 2 (Solo eventos)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DMFryCmnFOCW4k7eTz3g5eg
+#EXTINF:-1 xui-id="2524" tvg-id="MVLIGA2" tvg-name="ES | M. LaLiga 2 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoRsdCOjCoKKyXSSj1fNTCmA.png" group-title="ESPAÑA DEPORTES",ES | M. LaLiga 2 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DEOBY-cYBuiqKVqdwvOfv1M
+#EXTINF:-1 xui-id="2538" tvg-id="MVLIGA2" tvg-name="ES | LALIGA 2 SD (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoRsdCOjCoKKyXSSj1fNTCmA.png" group-title="ESPAÑA DEPORTES",ES | LALIGA 2 SD (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCVopQK4To2IEchfiqC5_Z8
+#EXTINF:-1 xui-id="2510" tvg-id="MVLIGA2" tvg-name="ES | LA LIGA 2 TV HD (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoRsdCOjCoKKyXSSj1fNTCmA.png" group-title="ESPAÑA DEPORTES",ES | LA LIGA 2 TV HD (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJMA4S33pWG8AfsHcIZG2As
+#EXTINF:-1 xui-id="2517" tvg-id="MVLIGA2" tvg-name="ES | MOVISTAR LA LIGA 2 HD HEVC  ( SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoRsdCOjCoKKyXSSj1fNTCmA.png" group-title="ESPAÑA DEPORTES",ES | MOVISTAR LA LIGA 2 HD HEVC  ( SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJNOuFttxc64ge6TDRMIOXU
+#EXTINF:-1 xui-id="2525" tvg-id="MVLIGA2" tvg-name="ES | M. LaLiga 2 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoRsdCOjCoKKyXSSj1fNTCmA.png" group-title="ESPAÑA DEPORTES",ES | M. LaLiga 2 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPm99378t1vuOZfGSbHlEjU
+#EXTINF:-1 xui-id="2507" tvg-id="MVLIGA3" tvg-name="ES | MOVISTAR LALIGA 3 (Solo eventos)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoTrqR_fJD63NHIwts3rDeLQ.png" group-title="ESPAÑA DEPORTES",ES | MOVISTAR LALIGA 3 (Solo eventos)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DFpdKZGg70LDgN4zTc1TjjA
+#EXTINF:-1 xui-id="2527" tvg-id="MVLIGA3" tvg-name="ES | M. LaLiga 3 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoTrqR_fJD63NHIwts3rDeLQ.png" group-title="ESPAÑA DEPORTES",ES | M. LaLiga 3 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DD1YdRWQ6VZPwg80SRT6bG0
+#EXTINF:-1 xui-id="2539" tvg-id="MVLIGA3" tvg-name="ES | LALIGA 3 SD (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoTrqR_fJD63NHIwts3rDeLQ.png" group-title="ESPAÑA DEPORTES",ES | LALIGA 3 SD (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DMPvB7kzU8rYg5qHll0yYkg
+#EXTINF:-1 xui-id="2518" tvg-id="MVLIGA3" tvg-name="ES | MOVISTAR LA LIGA 3 HD ( SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoTrqR_fJD63NHIwts3rDeLQ.png" group-title="ESPAÑA DEPORTES",ES | MOVISTAR LA LIGA 3 HD ( SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DFI02jGac8HCZYkVjN_Kxso
+#EXTINF:-1 xui-id="2526" tvg-id="MVLIGA3" tvg-name="ES | M. LaLiga 3 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoTrqR_fJD63NHIwts3rDeLQ.png" group-title="ESPAÑA DEPORTES",ES | M. LaLiga 3 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DEg-_rQRl2TfrBras_r9CNc
+#EXTINF:-1 xui-id="2522" tvg-id="LIGCAHD" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo7xXdCy8dcXgtj90rSMJG9g.png" group-title="ESPAÑA DEPORTES",ES | MOVISTAR LIGA DE CAMPEONES
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DFfj-uJ3p_v5lmQwrWd0m8A
+#EXTINF:-1 xui-id="2504" tvg-id="LIGCAHD" tvg-name="ES | M. LA LIGA DE CAMPEONES (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo7xXdCy8dcXgtj90rSMJG9g.png" group-title="ESPAÑA DEPORTES",ES | M. LA LIGA DE CAMPEONES (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGezXKB5nz2OAV7SrITuSIM
+#EXTINF:-1 xui-id="2470" tvg-id="LIGCAMP" tvg-name="ES | Movistar Liga De Campeones HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo7xXdCy8dcXgtj90rSMJG9g.png" group-title="ESPAÑA DEPORTES",ES | Movistar Liga De Campeones HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DDh62Uceij5E0Ga42B1qVNU
+#EXTINF:-1 xui-id="2515" tvg-id="LIGCAHD" tvg-name="ES | LIGA DE CAMPEONES FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo7xXdCy8dcXgtj90rSMJG9g.png" group-title="ESPAÑA DEPORTES",ES | LIGA DE CAMPEONES FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DMxHajx-XS-OoZM5OoOODmA
+#EXTINF:-1 xui-id="18603" tvg-id="LIGCAHD" tvg-name="ODE- M. Liga Campeones 4K" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo7xXdCy8dcXgtj90rSMJG9g.png" group-title="ESPAÑA DEPORTES",ODE- M. Liga Campeones 4K
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGoTzBfJkJ_ruw22oU2M9FUQpBC1m8Wygr488y2dmZ1d
+#EXTINF:-1 xui-id="18603" tvg-id="LIGCAHD" tvg-name="ODE- M. Liga Campeones 4K" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo7xXdCy8dcXgtj90rSMJG9g.png" group-title="UEFA",ODE- M. Liga Campeones 4K
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGoTzBfJkJ_ruw22oU2M9FUQpBC1m8Wygr488y2dmZ1d
+#EXTINF:-1 xui-id="2520" tvg-id="MVLGCM1" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 1  (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqozGhgINMzPptw2oAF3XcMKA.png" group-title="ESPAÑA DEPORTES",ES | MOVISTAR LIGA DE CAMPEONES 1  (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DFLzajaWwBHqSnJmJyXLs9U
+#EXTINF:-1 xui-id="2520" tvg-id="MVLGCM1" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 1  (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqozGhgINMzPptw2oAF3XcMKA.png" group-title="UEFA",ES | MOVISTAR LIGA DE CAMPEONES 1  (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DFLzajaWwBHqSnJmJyXLs9U
+#EXTINF:-1 xui-id="2521" tvg-id="MVLGCM2" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 2 [LIVE-EVENT]" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoy2N-QQZu40vZzv4H6jozGw.png" group-title="ESPAÑA DEPORTES",ES | MOVISTAR LIGA DE CAMPEONES 2 [LIVE-EVENT]
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPbY6W97_6mCmtTHWd7h2VQ
+#EXTINF:-1 xui-id="2552" tvg-id="MDEP1HD" tvg-name="ES |  M. DEPORTES HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo0tCUFgWTCd6dzOqRzZLAsQ.png" group-title="ESPAÑA DEPORTES",ES |  M. DEPORTES HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DMBbSCIUme4eyCT8ZozDjqI
+#EXTINF:-1 xui-id="2553" tvg-id="M+DEPORTES1" tvg-name="ES |  M. DEPORTES 1" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoE21Up5NSohmHkh1I4iERug.png" group-title="ESPAÑA DEPORTES",ES |  M. DEPORTES 1
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKwc5VsjgyyEUlDHrt2R4gg
+#EXTINF:-1 xui-id="2554" tvg-id="M+DEPORTES1HD" tvg-name="ES |  M. DEPORTES 1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoE21Up5NSohmHkh1I4iERug.png" group-title="ESPAÑA DEPORTES",ES |  M. DEPORTES 1 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DA9Tl_ipnJYMqBSh6PwCS48
+#EXTINF:-1 xui-id="2480" tvg-id="M+DEPORTES1HD" tvg-name="ES  | MOVISTAR DEPORTES 1 FULL HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoE21Up5NSohmHkh1I4iERug.png" group-title="ESPAÑA DEPORTES",ES  | MOVISTAR DEPORTES 1 FULL HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DHZG6gI_SDL3u5AAroClmFA
+#EXTINF:-1 xui-id="2555" tvg-id="M+DEPORTES2" tvg-name="ES |  M. DEPORTES 2" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoi7vdEcAzRjoMc446TjI_5A.png" group-title="ESPAÑA DEPORTES",ES |  M. DEPORTES 2
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGn_JtOdznFATkdM3TXOGSo
+#EXTINF:-1 xui-id="2556" tvg-id="M+DEPORTES2" tvg-name="ES |  M. DEPORTES 2 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoi7vdEcAzRjoMc446TjI_5A.png" group-title="ESPAÑA DEPORTES",ES |  M. DEPORTES 2 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DDrf9VZ8TaJhQFO1cVsM6b0
+#EXTINF:-1 xui-id="13233" tvg-id="M+LCAMPEON3" tvg-name="MDE- M. Deportes 3" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo97Uu06g8Fzrrgi8oLMMp7A.png" group-title="ESPAÑA DEPORTES",MDE- M. Deportes 3
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNv33J5yd6CJzAxSoO2Xc8Enm-UV1lfNXQigUSOkxUIP
+#EXTINF:-1 xui-id="2490" tvg-id="MGOLF" tvg-name="*ES | Movistar Golf" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoIxpbI6k3u7g5tMq2jn-iyA.png" group-title="ESPAÑA DEPORTES",*ES | Movistar Golf
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DENJ4PIH2k1JbvaotVRM90Y
+#EXTINF:-1 xui-id="2479" tvg-id="MGOLF" tvg-name="ES | MOVISTAR GOLF  HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoIxpbI6k3u7g5tMq2jn-iyA.png" group-title="ESPAÑA DEPORTES",ES | MOVISTAR GOLF  HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DAPhhjpigt8R-dX1eT-UwtM
+#EXTINF:-1 xui-id="4182" tvg-id="DAZN F1" tvg-name="DAZN F1 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoUdgbj-6MNSB-zOAhLPzIRg.png" group-title="ESPAÑA DAZN",DAZN F1 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNes-348z2FYzHeCElwVk6A
+#EXTINF:-1 xui-id="4182" tvg-id="DAZN F1" tvg-name="DAZN F1 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoUdgbj-6MNSB-zOAhLPzIRg.png" group-title="ESPAÑA DEPORTES",DAZN F1 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNes-348z2FYzHeCElwVk6A
+#EXTINF:-1 xui-id="4182" tvg-id="DAZN F1" tvg-name="DAZN F1 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoUdgbj-6MNSB-zOAhLPzIRg.png" group-title="DAZN EVENTOS",DAZN F1 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNes-348z2FYzHeCElwVk6A
+#EXTINF:-1 xui-id="2550" tvg-id="MFOR1HD" tvg-name="ES | M.FORMULA1 HD CONEXION BAJA" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFURPs2byMGzbbwKg9J2IZGcUOLN5B80LiOOT-89xd601A.png" group-title="ESPAÑA DEPORTES",ES | M.FORMULA1 HD CONEXION BAJA
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DHvUt_c8N28yafjYqebvcLs
+#EXTINF:-1 xui-id="4184" tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoUdgbj-6MNSB-zOAhLPzIRg.png" group-title="ESPAÑA DAZN",DAZN F1 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCtE21urXZRsAM_Bmav1bB8
+#EXTINF:-1 xui-id="4184" tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoUdgbj-6MNSB-zOAhLPzIRg.png" group-title="ESPAÑA DEPORTES",DAZN F1 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCtE21urXZRsAM_Bmav1bB8
+#EXTINF:-1 xui-id="4184" tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoUdgbj-6MNSB-zOAhLPzIRg.png" group-title="DAZN EVENTOS",DAZN F1 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCtE21urXZRsAM_Bmav1bB8
+#EXTINF:-1 xui-id="4186" tvg-id="DAZN F1 HD" tvg-name="DAZN F1 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoUdgbj-6MNSB-zOAhLPzIRg.png" group-title="ESPAÑA DAZN",DAZN F1 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DF76VVdvIRAH6Xsf59cKKy4
+#EXTINF:-1 xui-id="4186" tvg-id="DAZN F1 HD" tvg-name="DAZN F1 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoUdgbj-6MNSB-zOAhLPzIRg.png" group-title="ESPAÑA DEPORTES",DAZN F1 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DF76VVdvIRAH6Xsf59cKKy4
+#EXTINF:-1 xui-id="4186" tvg-id="DAZN F1 HD" tvg-name="DAZN F1 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoUdgbj-6MNSB-zOAhLPzIRg.png" group-title="DAZN EVENTOS",DAZN F1 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DF76VVdvIRAH6Xsf59cKKy4
+#EXTINF:-1 xui-id="2491" tvg-id="DAZN 1 HD" tvg-name="ES | Movistar Moto GP HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/22a04ded1447f41b1f6838522e70f808.jpg" group-title="ESPAÑA DEPORTES",ES | Movistar Moto GP HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DEsA9F40PEM7CDJr652XhGk
+#EXTINF:-1 xui-id="4166" tvg-id="DAZN 1" tvg-name="DAZN 1 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="ESPAÑA DAZN",DAZN 1 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DP22GHQXHWVcwUxCoB0FA-M
+#EXTINF:-1 xui-id="4166" tvg-id="DAZN 1" tvg-name="DAZN 1 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="ESPAÑA DEPORTES",DAZN 1 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DP22GHQXHWVcwUxCoB0FA-M
+#EXTINF:-1 xui-id="4166" tvg-id="DAZN 1" tvg-name="DAZN 1 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="DAZN EVENTOS",DAZN 1 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DP22GHQXHWVcwUxCoB0FA-M
+#EXTINF:-1 xui-id="4167" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="ESPAÑA DAZN",DAZN 1 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCwMuPyUnYZb06d-u1xKJtg
+#EXTINF:-1 xui-id="4167" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="ESPAÑA DEPORTES",DAZN 1 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCwMuPyUnYZb06d-u1xKJtg
+#EXTINF:-1 xui-id="4167" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="DAZN EVENTOS",DAZN 1 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCwMuPyUnYZb06d-u1xKJtg
+#EXTINF:-1 xui-id="4168" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="ESPAÑA DAZN",DAZN 1 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCbfMfM8BE0EU7vN7EOQY-Q
+#EXTINF:-1 xui-id="4168" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="ESPAÑA DEPORTES",DAZN 1 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCbfMfM8BE0EU7vN7EOQY-Q
+#EXTINF:-1 xui-id="4168" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="DAZN EVENTOS",DAZN 1 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCbfMfM8BE0EU7vN7EOQY-Q
+#EXTINF:-1 xui-id="4169" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="ESPAÑA DAZN",DAZN 1 FHD (x265)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNJ321hY9gnCDba1H6cSSm4
+#EXTINF:-1 xui-id="4169" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="ESPAÑA DEPORTES",DAZN 1 FHD (x265)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNJ321hY9gnCDba1H6cSSm4
+#EXTINF:-1 xui-id="4169" tvg-id="DAZN 1 HD" tvg-name="DAZN 1 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="DAZN EVENTOS",DAZN 1 FHD (x265)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNJ321hY9gnCDba1H6cSSm4
+#EXTINF:-1 xui-id="4170" tvg-id="DAZN 2" tvg-name="DAZN 2 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="ESPAÑA DAZN",DAZN 2 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DD_B13NhZ1hELtmXfk89k3U
+#EXTINF:-1 xui-id="4170" tvg-id="DAZN 2" tvg-name="DAZN 2 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="ESPAÑA DEPORTES",DAZN 2 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DD_B13NhZ1hELtmXfk89k3U
+#EXTINF:-1 xui-id="4170" tvg-id="DAZN 2" tvg-name="DAZN 2 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="DAZN EVENTOS",DAZN 2 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DD_B13NhZ1hELtmXfk89k3U
+#EXTINF:-1 xui-id="4171" tvg-id="DAZN 2 HD" tvg-name="DAZN 2 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="ESPAÑA DAZN",DAZN 2 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DB-nTLVaSK_ghWh2X6W8oNs
+#EXTINF:-1 xui-id="4171" tvg-id="DAZN 2 HD" tvg-name="DAZN 2 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="ESPAÑA DEPORTES",DAZN 2 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DB-nTLVaSK_ghWh2X6W8oNs
+#EXTINF:-1 xui-id="4171" tvg-id="DAZN 2 HD" tvg-name="DAZN 2 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="DAZN EVENTOS",DAZN 2 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DB-nTLVaSK_ghWh2X6W8oNs
+#EXTINF:-1 xui-id="4172" tvg-id="DAZN 2 HD" tvg-name="DAZN 2 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="ESPAÑA DAZN",DAZN 2 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJve2qsa80XgyEWr_XQSjdI
+#EXTINF:-1 xui-id="4172" tvg-id="DAZN 2 HD" tvg-name="DAZN 2 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="ESPAÑA DEPORTES",DAZN 2 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJve2qsa80XgyEWr_XQSjdI
+#EXTINF:-1 xui-id="4172" tvg-id="DAZN 2 HD" tvg-name="DAZN 2 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="DAZN EVENTOS",DAZN 2 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJve2qsa80XgyEWr_XQSjdI
+#EXTINF:-1 xui-id="4173" tvg-id="DAZN 2 HD" tvg-name="DAZN 2 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="ESPAÑA DAZN",DAZN 2 FHD (x265)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DEbPrKnk53uF51YXTjzNLrM
+#EXTINF:-1 xui-id="4173" tvg-id="DAZN 2 HD" tvg-name="DAZN 2 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="ESPAÑA DEPORTES",DAZN 2 FHD (x265)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DEbPrKnk53uF51YXTjzNLrM
+#EXTINF:-1 xui-id="4173" tvg-id="DAZN 2 HD" tvg-name="DAZN 2 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="DAZN EVENTOS",DAZN 2 FHD (x265)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DEbPrKnk53uF51YXTjzNLrM
+#EXTINF:-1 xui-id="3970" tvg-id="EUSPESP" tvg-name="ES | EuroSport 1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwVmI-1eUR3emfM90Ne1gHgYh3kflvW0W-A8ikqhsPvJlQ.png" group-title="ESPAÑA DEPORTES",ES | EuroSport 1 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DMIXzhOxjj1UYGQhNAO6stw
+#EXTINF:-1 xui-id="2473" tvg-id="EUSP2NL" tvg-name="ES | Eurosport 2 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/b9be2218a3d380be689b426afb468534.png" group-title="ESPAÑA DEPORTES",ES | Eurosport 2 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPkLPW_Z5yqWIVmKpkBFpEI
+#EXTINF:-1 xui-id="2492" tvg-id="GOLTV" tvg-name="ES | GOL TV" tvg-logo="http://quebuscasaqui.xyz:8080/images/853807f291f0ab37c51ceb7848f1e4c1.jpg" group-title="ESPAÑA DEPORTES",ES | GOL TV
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DN3oWnQvG0A9U6M0UkQDL8w
+#EXTINF:-1 xui-id="2503" tvg-id="TELEDHD" tvg-name="ES | TELEDEPORTE HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t1dIsRSgnx8iIh97aqKDQRvu9jQvzvjNxsc2jiMqT8c_g.png" group-title="ESPAÑA DEPORTES",ES | TELEDEPORTE HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DIu9XOhXVzbz28RAw3liwNU
+#EXTINF:-1 xui-id="4022" tvg-id="TELEDHD" tvg-name="ES | TELEDEPORTE FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t1dIsRSgnx8iIh97aqKDQRvu9jQvzvjNxsc2jiMqT8c_g.png" group-title="ESPAÑA DEPORTES",ES | TELEDEPORTE FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DAx6s8YWVcNPhEdE5xv-LrI
+#EXTINF:-1 xui-id="2380" tvg-id="CAZPES" tvg-name="ESPAÑA | Caza Y Pesca HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Caza-y-Pesca-Logotipo-2016.png/revision/latest?cb=20161008171111" group-title="ESPAÑA",ESPAÑA | Caza Y Pesca HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DDV6wwg2Gl-8Wsz3mdPQzsY
+#EXTINF:-1 xui-id="2386" tvg-id="IBRALHD" tvg-name="ESPAÑA | Iberalia TV HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFUHV-xKO0xxQJd2ICQPcWXb.png" group-title="ESPAÑA",ESPAÑA | Iberalia TV HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DO07OKrwDoGaifH1b5hxJhs
+#EXTINF:-1 xui-id="2477" tvg-id="TOROS" tvg-name="ES | Toros TV HD" tvg-logo="http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg?1" group-title="ESPAÑA DEPORTES",ES | Toros TV HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DAQxF2aKczqBbAsR8IrNk_c
+#EXTINF:-1 xui-id="2481" tvg-id="TOROSHD" tvg-name="ES  | MOVISTAR  TOROS" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t3i1TvxHsUrjX8lL0OPnbyKUAsDPuNF2XeszelSsrY5Gg.png" group-title="ESPAÑA DEPORTES",ES  | MOVISTAR  TOROS
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCdhA2ZE_0xI7jaH7_ixqTs
+#EXTINF:-1 xui-id="2499" tvg-id="RMAD" tvg-name="ES | +Real Madrid TV" tvg-logo="http://quebuscasaqui.xyz:8080/images/2e511cf4bfc069bce770187219460a22.jpg" group-title="ESPAÑA DEPORTES",ES | +Real Madrid TV
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGNFQux0JtlAtEGXTgBfOss
+#EXTINF:-1 xui-id="2489" tvg-id="RMAD" tvg-name="ES | Real Madrid TV FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png/revision/latest/scale-to-width-down/200?cb=20170103061913" group-title="ESPAÑA DEPORTES",ES | Real Madrid TV FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DK3bvSn2sCmPB4Kq1wh7yuw
+#EXTINF:-1 xui-id="2483" tvg-id="BARCATV" tvg-name="ES | Barca TV" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwVKqViRB7x1HMyKVHOieXX3.png" group-title="ESPAÑA DEPORTES",ES | Barca TV
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DHW23bNVaIqSZVBV-WYk_tk
+#EXTINF:-1 xui-id="2468" tvg-id="BARCATV" tvg-name="Barca TV HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwVKqViRB7x1HMyKVHOieXX3.png" group-title="ESPAÑA DEPORTES",Barca TV HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJcbRUJKCzs81PR7FR80XWM
+#EXTINF:-1 xui-id="2387" tvg-id="NATGSHD" tvg-name="ESPAÑA | Nat Geo HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t1Ik0q5TXBOW2nHLvcw77gql0dFZaxCeSfVHf1oL_9-Dw.png" group-title="ESPAÑA",ESPAÑA | Nat Geo HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNHSkl9zAd3SxyG59DRjxYo
+#EXTINF:-1 xui-id="2390" tvg-id="NGWANZ" tvg-name="ESPAÑA | Nat Geo Wild HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/e2d6803e8c3a974b4554dda1cf419282.png" group-title="ESPAÑA",ESPAÑA | Nat Geo Wild HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DErn0lEHv705_vxJAyUXnCo
+#EXTINF:-1 xui-id="2385" tvg-id="HISHDES" tvg-name="ESPAÑA | Historia HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t2yDr8u696s5F8jKOCy4MiCrvHSrPCNKstAyaCIjiR16Q.png" group-title="ESPAÑA",ESPAÑA | Historia HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DBxVOAk2p-qYM91Wgzbxydk
+#EXTINF:-1 xui-id="2388" tvg-id="DSCCKDG" tvg-name="ESPAÑA | Discovery Channel HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/d471cc4de6c261312b355468725e304d.png" group-title="ESPAÑA",ESPAÑA | Discovery Channel HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGkUVNlPhaCcEu3z7_tqeoM
+#EXTINF:-1 xui-id="2398" tvg-id="ODISEHD" tvg-name="ESPAÑA | Odisea HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t1HMtDBK0xOZ0HfqguRf8Ft.png" group-title="ESPAÑA",ESPAÑA | Odisea HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DLZ6BlX-lRPBZumTqw9lpqY
+#EXTINF:-1 xui-id="3683" tvg-id="ODISEHD" tvg-name="ESPAÑA | ODISEA FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t1HMtDBK0xOZ0HfqguRf8Ft.png" group-title="ESPAÑA",ESPAÑA | ODISEA FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DK5_7dbo-qswH-lPNNbXr1k
+#EXTINF:-1 xui-id="2373" tvg-id="BLAZESH" tvg-name="ESPAÑA | Blaze HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFW0HSm6vVjWnFyTIVDbZgLtpzeESLiJpyVlhvzIiJ3-3w.png" group-title="ESPAÑA",ESPAÑA | Blaze HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DOUHs2zWWN84-c3tOXRegxU
+#EXTINF:-1 xui-id="3678" tvg-id="DISCMAX" tvg-name="ESPAÑA | DMAX" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t0n51fehRQi-PWOet8JQ0e5ETb0AsOpWgkkscpbF-54zw.png" group-title="ESPAÑA",ESPAÑA | DMAX
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCrfgrJzqaNMKaK9NXN7PpI
+#EXTINF:-1 xui-id="2412" tvg-id="CRINV" tvg-name="ESPAÑA | Crimen & Investigacion" tvg-logo="http://quebuscasaqui.xyz:8080/images/f30b2c3159082bbc37d7e2f580ebe246.jpg" group-title="ESPAÑA",ESPAÑA | Crimen & Investigacion
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DLB1KGMuxD8RZBB-xN6OMLU
+#EXTINF:-1 xui-id="2379" tvg-id="DECASHD" tvg-name="ESPAÑA | Canal Decasa HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFVd8cahIAHKKue__o88cQGj.png" group-title="ESPAÑA",ESPAÑA | Canal Decasa HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DHw72Rgko_Xdj53KJrgh2zw
+#EXTINF:-1 xui-id="2378" tvg-id="COCINHD" tvg-name="ESPAÑA | Canal Cocina HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t3WxytDwzNwEy0EIen8CjmeXrOI1_o1tnHgdHyEjSryuA.png" group-title="ESPAÑA",ESPAÑA | Canal Cocina HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DOFfDBbYuOVLrvRKVOE_MBg
+#EXTINF:-1 xui-id="2450" tvg-id="DIVINIT" tvg-name="ESPAÑA | DIVINITY SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/03d8c895460ff3e7e91db2df48e7e5ee.png" group-title="ESPAÑA",ESPAÑA | DIVINITY SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPsrQX8DKccPfJzh-8sJXp8
+#EXTINF:-1 xui-id="2566" tvg-id="DIVINIT" tvg-name="ESPAÑA | Divinity HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/24c033bd60100fd45aa4eab6d50782bc.jpg" group-title="ESPAÑA CINE",ESPAÑA | Divinity HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DDlbpqlPHOdj5WQdbl1AZ8c
+#EXTINF:-1 xui-id="2448" tvg-id="DIVINIT" tvg-name="ESPAÑA | DIVINITY HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/03d8c895460ff3e7e91db2df48e7e5ee.png" group-title="ESPAÑA",ESPAÑA | DIVINITY HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DN6PoRFlZ70ZYctRb07Ob6o
+#EXTINF:-1 xui-id="2449" tvg-id="DIVINIT" tvg-name="ESPAÑA | DIVINITY FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/03d8c895460ff3e7e91db2df48e7e5ee.png" group-title="ESPAÑA",ESPAÑA | DIVINITY FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPrSxeAQiPwBQSGUt4tWlUc
+#EXTINF:-1 xui-id="2447" tvg-id="NOVANT" tvg-name="ESPAÑA | NOVA SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwXb3ytNPZzhF-0YVOoWmcB0t_AdgGUucxHAea7gv3melg.png" group-title="ESPAÑA",ESPAÑA | NOVA SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DH82MKd6G3UF8HFukuDMjQ4
+#EXTINF:-1 xui-id="2393" tvg-id="NOVAEHD" tvg-name="ESPAÑA | Nova HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFWann9lYHq6bLSqrC7MTaFzCCoF8_N6fHVwP8pGn52RtA.png" group-title="ESPAÑA",ESPAÑA | Nova HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DF2p5TdKnPrQ4iaolFjifM0
+#EXTINF:-1 xui-id="2446" tvg-id="NOVAEHD" tvg-name="ESPAÑA | NOVA FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFWann9lYHq6bLSqrC7MTaFzCCoF8_N6fHVwP8pGn52RtA.png" group-title="ESPAÑA",ESPAÑA | NOVA FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPVSfJvIBmnlqEuGMnpbOgg
+#EXTINF:-1 xui-id="2453" tvg-id="MEGAEHD" tvg-name="ESPAÑA | MEGA SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFX6OXXb0A2WIoCrpFSxrtIMnr8dz4g-KMnaydoCQUCHNw.png" group-title="ESPAÑA",ESPAÑA | MEGA SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPcYW9XjU6YkcF_t6QG5S4M
+#EXTINF:-1 xui-id="2451" tvg-id="MEGAEHD" tvg-name="ESPAÑA | MEGA HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFX6OXXb0A2WIoCrpFSxrtIMnr8dz4g-KMnaydoCQUCHNw.png" group-title="ESPAÑA",ESPAÑA | MEGA HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DMzo33dUCQQ6ao7pNLuUr8o
+#EXTINF:-1 xui-id="2452" tvg-id="MEGAEHD" tvg-name="ESPAÑA | MEGA FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFX6OXXb0A2WIoCrpFSxrtIMnr8dz4g-KMnaydoCQUCHNw.png" group-title="ESPAÑA",ESPAÑA | MEGA FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DIQsz8d-2ci8ncdTcMBBAa8
+#EXTINF:-1 xui-id="2459" tvg-id="BEMAD" tvg-name="ESPAÑA | BE MAD SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t05jW5Uwgs0UHSeUV6OYb1Oc-vnfH7psXSNEcDI6hdhJA.png" group-title="ESPAÑA",ESPAÑA | BE MAD SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DDzSkMY3PFNMKYFREv7-UPk
+#EXTINF:-1 xui-id="2372" tvg-id="BEMADHD" tvg-name="ESPAÑA  | BEMAD HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFUt7aXJLXCdJKZTaQM9WmWl0mVCNDNLEB_-3o2peNZqGQ.png" group-title="ESPAÑA",ESPAÑA  | BEMAD HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DH95Ko7j32j2HKlHfGdlQXg
+#EXTINF:-1 xui-id="2458" tvg-id="BEMADHD" tvg-name="ESPAÑA | BE MAD FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFUt7aXJLXCdJKZTaQM9WmWl0mVCNDNLEB_-3o2peNZqGQ.png" group-title="ESPAÑA",ESPAÑA | BE MAD FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPMzR5Ex3KGKo6HJmog3_sU
+#EXTINF:-1 xui-id="13234" tvg-id="BOMESP" tvg-name="ES | BOM CINE" tvg-logo="http://quebuscasaqui.xyz:8080/images/meyY-t1Zua6H_wjwLVjSitG5rueUDTrw-2o4-xqKMO4HSYC21jeNXKN5m3vxfs1YvZ6DbHpZBgkRPHno_qBJ0xZzKClPzQm1uMclDTUn03w.png" group-title="ESPAÑA CINE",ES | BOM CINE
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPK2XSLdEiVnL01KCOmUsgxAQN7zGyGBVScTXjkRE47X
+#EXTINF:-1 xui-id="2374" tvg-id="BABYTVS" tvg-name="ESPAÑA | Baby TV HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwU0dyUzk2fkyOEJ9Ne-ufCrNWcNnfzWoghpIuJAH2h3kQ.png" group-title="ESPAÑA",ESPAÑA | Baby TV HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKboe6pPAS535I58ufTMJWY
+#EXTINF:-1 xui-id="2409" tvg-id="DJRESP" tvg-name="ESPAÑA | Disney Junior HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwWii3Dmm8O-fRJs46Pp84iz7O2l9duuNEefMK-doEr-1A.png" group-title="ESPAÑA",ESPAÑA | Disney Junior HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJQS6VJPVaFjDfa_Bi25AcE
+#EXTINF:-1 xui-id="2377" tvg-id="CANLPAN" tvg-name="ESPAÑA | CANAL PANDA" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1O9P7PZUgQ04bYRnCh6HayyKz58SbefQSsLZ6mLoDj4Z5kLUppypuSAa4T_LNiAScg.png" group-title="ESPAÑA",ESPAÑA | CANAL PANDA
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCg6IxgrFNmW5iacsaiwcx4
+#EXTINF:-1 xui-id="2391" tvg-id="NICJRS" tvg-name="ESPAÑA | Nick JR HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t0axazLzSjeY_bHPubUCaDkfHCDL6HexErw8d20VkPg5A.png" group-title="ESPAÑA",ESPAÑA | Nick JR HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJUANMGIfaJa8_Gjt_591ug
+#EXTINF:-1 xui-id="2392" tvg-id="NICKLMC" tvg-name="ESPAÑA | Nickelodeon HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/8c192a845b35a8f5efea1883577437f1.png" group-title="ESPAÑA",ESPAÑA | Nickelodeon HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DIgHYDUT_ed7hnqwBwHZ8Ac
+#EXTINF:-1 xui-id="13235" tvg-id="" tvg-name="OI- DreamWorks" tvg-logo="http://discusfish.xyz:25461/images/c899883c220e94ce807676d229119a63.jpg" group-title="ESPAÑA",OI- DreamWorks
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNwgl_ZQzaAIWLsOPURwYS4ugqiAakn-YSCaC3UAFMft
+#EXTINF:-1 xui-id="2594" tvg-id="DISESP" tvg-name="ESPAÑA | MOVISTAR DISNEY" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1O9P7PZUgQ04bYRnCh6Hayz7j3e6tVvsg7rGtC3ZGrmknA9H5ZPhgj5lNAd5KPmJcQ.png" group-title="ESPAÑA CINE",ESPAÑA | MOVISTAR DISNEY
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DEnTuUurnD0lg9NoeSsDYcg
+#EXTINF:-1 xui-id="2595" tvg-id="DISESPH" tvg-name="ESPAÑA | Movistar Disney+ HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwVgIuuVkg5gJhLW-y3Txtl8b44SWtF503iLbKO8MQaQ2A.png" group-title="ESPAÑA CINE",ESPAÑA | Movistar Disney+ HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DAR-rO3dr5HXcfWjhNO9IaY
+#EXTINF:-1 xui-id="2408" tvg-id="SPDISHD" tvg-name="ESPAÑA | Disney Channel HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/575ba9293a2e530491717e16627eb796.png" group-title="ESPAÑA",ESPAÑA | Disney Channel HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DDC5pMMNqTApTVxd61A-51U
+#EXTINF:-1 xui-id="2407" tvg-id="SPDISHD" tvg-name="ESPAÑA | Disney Channel FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/575ba9293a2e530491717e16627eb796.png" group-title="ESPAÑA",ESPAÑA | Disney Channel FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKrYsn_-UZvgNgRVbYtsg_c
+#EXTINF:-1 xui-id="2462" tvg-id="BOINGE" tvg-name="ESPAÑA | BOING SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwWoZK42-hiRhTLnUiOYHoOT74-dZnL6u12uh92bCJnoug.png" group-title="ESPAÑA",ESPAÑA | BOING SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPAN6IyCef_o92kutyY3slU
+#EXTINF:-1 xui-id="2375" tvg-id="BOINGE" tvg-name="ESPAÑA | Boing HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwWoZK42-hiRhTLnUiOYHoOT74-dZnL6u12uh92bCJnoug.png" group-title="ESPAÑA",ESPAÑA | Boing HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DP3XbzxX3-Y8YfZ71s-uuOw
+#EXTINF:-1 xui-id="2461" tvg-id="BOINGE" tvg-name="ESPAÑA | BOING FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwWoZK42-hiRhTLnUiOYHoOT74-dZnL6u12uh92bCJnoug.png" group-title="ESPAÑA",ESPAÑA | BOING FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DBBERhjayzJykNcu51hWAeQ
+#EXTINF:-1 xui-id="2381" tvg-id="CLANHD" tvg-name="ESPAÑA | Clan TV HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFUO7ahvzRDKLr8EUCk5Krwv.png" group-title="ESPAÑA",ESPAÑA | Clan TV HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCUwZoS_4esvwarjsNJaENc
+#EXTINF:-1 xui-id="13236" tvg-id="XTRMHD" tvg-name="OC- XTRM SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t1qruRy1iMCdF64NsVdiaaHyJIStfleFzjqXZUQs23ppg.png" group-title="ESPAÑA CINE",OC- XTRM SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPn2GfFJnXWf3O9j1jQnVsh9zgAi6X1SF5eKdzVSxd37
+#EXTINF:-1 xui-id="2602" tvg-id="SOMOSHD" tvg-name="ESPAÑA | SOMOS HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFXJM-WiJ4S_dy21RuPYvBnsNqTvaf0xyFasmV2EKHKXgg.png" group-title="ESPAÑA CINE",ESPAÑA | SOMOS HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DOp2Ahm74zEM56f4kB8REXI
+#EXTINF:-1 xui-id="2603" tvg-id="SOMOSHD" tvg-name="ESPAÑA |SOMOS FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFXJM-WiJ4S_dy21RuPYvBnsNqTvaf0xyFasmV2EKHKXgg.png" group-title="ESPAÑA CINE",ESPAÑA |SOMOS FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DFDGOtdx6K0y2NZAdSbivqo
+#EXTINF:-1 xui-id="2397" tvg-id="MTVESHD" tvg-name="ESPAÑA | MTV HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFXKm6rg-LVnVY-SMwsd0rIajldDxNqxq6KCSqlpTCrJ9w.png" group-title="ESPAÑA",ESPAÑA | MTV HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DL1KxRCCl8dr724B1CA4jKk
+#EXTINF:-1 xui-id="2467" tvg-id="CAN24AM" tvg-name="ESPAÑA |  24 HORAS" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1GVJROTd8RCcwXYtC8IW2Cyfhq8_LU5I7oTSfZNF-Aq2zXe8EO7LLtNI_atQDkQfzw.png" group-title="ESPAÑA",ESPAÑA |  24 HORAS
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DIjSSr04I_9jwpHLAdnnfYs
+#EXTINF:-1 xui-id="3862" tvg-id="ELTORO" tvg-name="ES | EL TORO TV" tvg-logo="http://quebuscasaqui.xyz:8080/images/d875b83110b2ad034bff8aba3d8766c8.jpg" group-title="ESPAÑA DEPORTES",ES | EL TORO TV
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNNM9xmSEo_7Sg_vzoqK56c
+#EXTINF:-1 xui-id="2384" tvg-id="DKISS" tvg-name="ESPAÑA | DKiss TV HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t3cs6xmru3MtHrVZ0ET62nA9lOWNRD0M5k4Gx2fJApJuQ.png" group-title="ESPAÑA",ESPAÑA | DKiss TV HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DDwgDBpFA8p8Q773w05_jSo
+#EXTINF:-1 xui-id="3677" tvg-id="TENESP" tvg-name="ESPAÑA | TEN" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFU2CYEwcTPZ8uA4MIArLd-lba__GAy7zkKUQloYRSh7eg.png" group-title="ESPAÑA",ESPAÑA | TEN
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJas0URYMRZbkuD-2EzP-zo
+#EXTINF:-1 xui-id="2410" tvg-id="" tvg-name="ESPAÑA  | Canal CGTN Español" tvg-logo="http://quebuscasaqui.xyz:8080/images/51db098ccad89079fd6f62fadb01c0b7.png" group-title="ESPAÑA",ESPAÑA  | Canal CGTN Español
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGe7vWBp_P_gGDaula8G9DI
+#EXTINF:-1 xui-id="4309" tvg-id="ESPOR3" tvg-name="ES | Esport 3" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t3MsGEI2uz0LBfg2fDGRQA9S6wi4QaUUMOdDXUltzEO0Q.png" group-title="ESPAÑA DEPORTES",ES | Esport 3
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DIDOTmVYl9puoyByZPwYk0k
+#EXTINF:-1 xui-id="2586" tvg-id="" tvg-name="ESPAÑA |  TAQUILLA 1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/e4NLZyC3DVHN_WeljfkcGeD4OJAo25RgPFKUwuL2koJv9R4zJwpcnKiSUU2FEGsK2489J6BR3JbM6C9tUbSfoEFQkDiSDgA_anBv0ct_t-o.png" group-title="ESPAÑA CINE",ESPAÑA |  TAQUILLA 1 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DIPqepXDMQqaj9K_WunYyRc
+#EXTINF:-1 xui-id="2585" tvg-id="" tvg-name="ESPAÑA | TAQUILLA 2 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/e4NLZyC3DVHN_WeljfkcGeD4OJAo25RgPFKUwuL2koJv9R4zJwpcnKiSUU2FEGsK2489J6BR3JbM6C9tUbSfoEFQkDiSDgA_anBv0ct_t-o.png" group-title="ESPAÑA CINE",ESPAÑA | TAQUILLA 2 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNcI_WYA1h9x3ZEObgzWH8M
+#EXTINF:-1 xui-id="2584" tvg-id="" tvg-name="ESPAÑA |  TAQUILLA 3 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/e4NLZyC3DVHN_WeljfkcGeD4OJAo25RgPFKUwuL2koJv9R4zJwpcnKiSUU2FEGsK2489J6BR3JbM6C9tUbSfoEFQkDiSDgA_anBv0ct_t-o.png" group-title="ESPAÑA CINE",ESPAÑA |  TAQUILLA 3 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJoZtG1_aqIpCA6bn2PlisU
+#EXTINF:-1 xui-id="2583" tvg-id="" tvg-name="ESPAÑA |  TAQUILLA 4 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/e4NLZyC3DVHN_WeljfkcGeD4OJAo25RgPFKUwuL2koJv9R4zJwpcnKiSUU2FEGsK2489J6BR3JbM6C9tUbSfoEFQkDiSDgA_anBv0ct_t-o.png" group-title="ESPAÑA CINE",ESPAÑA |  TAQUILLA 4 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DARpSWkYSwrSC3t_koaHu3Y
+#EXTINF:-1 xui-id="2587" tvg-id="" tvg-name="ESPAÑA | ALQUILER 2 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqouX6iPH_vib0Ep6eSL7lSbQ.png" group-title="ESPAÑA CINE",ESPAÑA | ALQUILER 2 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPj1q10ZxqYF3O3jh-gpgek
+#EXTINF:-1 xui-id="2588" tvg-id="" tvg-name="ESPAÑA | ALQUILER 3 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqouX6iPH_vib0Ep6eSL7lSbQ.png" group-title="ESPAÑA CINE",ESPAÑA | ALQUILER 3 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJdmnv2MeO6_E4EDImU5J0k
+#EXTINF:-1 xui-id="2589" tvg-id="" tvg-name="ESPAÑA | ALQUILER 4 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqouX6iPH_vib0Ep6eSL7lSbQ.png" group-title="ESPAÑA CINE",ESPAÑA | ALQUILER 4 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DHNT1J7L_F-gsXOqrZ5Wi3U
+#EXTINF:-1 xui-id="2590" tvg-id="" tvg-name="ESPAÑA | ALQUILER 5 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqouX6iPH_vib0Ep6eSL7lSbQ.png" group-title="ESPAÑA CINE",ESPAÑA | ALQUILER 5 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNyhNIRhu1pTe57a9U5bpf0
+#EXTINF:-1 xui-id="2591" tvg-id="" tvg-name="ESPAÑA | ALQUILER ALQUIER 6 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqouX6iPH_vib0Ep6eSL7lSbQ.png" group-title="ESPAÑA CINE",ESPAÑA | ALQUILER ALQUIER 6 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKp4fcWmz3hKL1dHfrBNatY
+#EXTINF:-1 xui-id="2508" tvg-id="MVLIGA4" tvg-name="ES | M. LaLiga 4 ( Solo eventos)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoCO4X_DQUmIOfhC3NV7pJDA.png" group-title="ESPAÑA DEPORTES",ES | M. LaLiga 4 ( Solo eventos)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGouOUGb945wVV-8wAkKwUM
+#EXTINF:-1 xui-id="2528" tvg-id="MVLIGA4" tvg-name="ES | Movistar LaLiga 4 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoCO4X_DQUmIOfhC3NV7pJDA.png" group-title="ESPAÑA DEPORTES",ES | Movistar LaLiga 4 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DHbCJxGNWbpTgsWU7XCbeZc
+#EXTINF:-1 xui-id="2540" tvg-id="M+ LaLiga 4" tvg-name="ES | LALIGA 4 SD (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoCO4X_DQUmIOfhC3NV7pJDA.png" group-title="ESPAÑA DEPORTES",ES | LALIGA 4 SD (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DACK0k8sXLomg_L4CupdGkI
+#EXTINF:-1 xui-id="2541" tvg-id="M+ LaLiga 4" tvg-name="ES | LALIGA 4 HD (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoCO4X_DQUmIOfhC3NV7pJDA.png" group-title="ESPAÑA DEPORTES",ES | LALIGA 4 HD (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DI0nMDSn0F-F1Q1Zfxv841M
+#EXTINF:-1 xui-id="2542" tvg-id="M+ LaLiga 4" tvg-name="ES | LALIGA 4 FHD (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoCO4X_DQUmIOfhC3NV7pJDA.png" group-title="ESPAÑA DEPORTES",ES | LALIGA 4 FHD (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DFT1G2WAoDtM1vJKtZHWYO4
+#EXTINF:-1 xui-id="2529" tvg-id="MVLIGA5" tvg-name="ES | M. LaLiga 5 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoAqtqm66xDF-jNR4ZFFvfdA.png" group-title="ESPAÑA DEPORTES",ES | M. LaLiga 5 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DBigloTL-l60kAidTYSTBvQ
+#EXTINF:-1 xui-id="2543" tvg-id="M+ LaLiga 5" tvg-name="ES | LALIGA 5 SD (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoAqtqm66xDF-jNR4ZFFvfdA.png" group-title="ESPAÑA DEPORTES",ES | LALIGA 5 SD (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DL9Qixk2sNXAzj8vof5cU8s
+#EXTINF:-1 xui-id="2544" tvg-id="M+ LaLiga 5" tvg-name="ES | LALIGA 5 HD (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoAqtqm66xDF-jNR4ZFFvfdA.png" group-title="ESPAÑA DEPORTES",ES | LALIGA 5 HD (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DLDbLwVyx6d1xQQpAJ57YFU
+#EXTINF:-1 xui-id="2545" tvg-id="M+ LaLiga 5" tvg-name="ES | LALIGA 5 FHD (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoAqtqm66xDF-jNR4ZFFvfdA.png" group-title="ESPAÑA DEPORTES",ES | LALIGA 5 FHD (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKoLwsRFHkTGBd4UsU_geq4
+#EXTINF:-1 xui-id="2546" tvg-id="LALIGA6" tvg-name="ES | LALIGA 6 (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqorjlgmlfNzknxuoif9Yp4Hg.png" group-title="ESPAÑA DEPORTES",ES | LALIGA 6 (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPJnunqNK1XokX625Gfm_eY
+#EXTINF:-1 xui-id="2530" tvg-id="LALIGA6" tvg-name="ES | M. LaLiga 6 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqorjlgmlfNzknxuoif9Yp4Hg.png" group-title="ESPAÑA DEPORTES",ES | M. LaLiga 6 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNc8pbbDeWmZ8ppcN3D7BXA
+#EXTINF:-1 xui-id="2547" tvg-id="" tvg-name="ES | LALIGA 7  (SÓLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoA2MniS8s_-MgCxmFl6cCeQ.png" group-title="ESPAÑA DEPORTES",ES | LALIGA 7  (SÓLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DDwP0GuZ5wLiNXerHq32xh4
+#EXTINF:-1 xui-id="2531" tvg-id="" tvg-name="ES | M. LaLiga 7 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoA2MniS8s_-MgCxmFl6cCeQ.png" group-title="ESPAÑA DEPORTES",ES | M. LaLiga 7 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DEC2AJtsXkMOPPX9o7k3kKA
+#EXTINF:-1 xui-id="2548" tvg-id="" tvg-name="ES | LALIGA 8  (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoWoMLIGnYVPYym_0-UmSeVQ.png" group-title="ESPAÑA DEPORTES",ES | LALIGA 8  (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DO8VnHmx6KkdbO6yC1NU6ZA
+#EXTINF:-1 xui-id="2532" tvg-id="" tvg-name="ES | M. LaLiga 8 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoWoMLIGnYVPYym_0-UmSeVQ.png" group-title="ESPAÑA DEPORTES",ES | M. LaLiga 8 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DMv8T-4oWqKzm8aZng2tT1A
+#EXTINF:-1 xui-id="2549" tvg-id="" tvg-name="ES | LALIGA 9 (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoKAuKJd-IfXTZtu83gI06dQ.png" group-title="ESPAÑA DEPORTES",ES | LALIGA 9 (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DLZ3q_BU7dSVGnlx_o84-PY
+#EXTINF:-1 xui-id="2533" tvg-id="" tvg-name="ES | M. LaLiga 9 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoKAuKJd-IfXTZtu83gI06dQ.png" group-title="ESPAÑA DEPORTES",ES | M. LaLiga 9 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DBpYosSwZelA2tRQn4E3li8
+#EXTINF:-1 xui-id="2534" tvg-id="" tvg-name="ES | M. LaLiga 10 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqooi_NLu2fpV3h5r2pjn4UvA.png" group-title="ESPAÑA DEPORTES",ES | M. LaLiga 10 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DEcol5uE-FQKnAK4lxd6kGo
+#EXTINF:-1 xui-id="4174" tvg-id="DAZN 3" tvg-name="DAZN 3 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="ESPAÑA DAZN",DAZN 3 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKqIBi5JdBL7olJlI6mHTn8
+#EXTINF:-1 xui-id="4174" tvg-id="DAZN 3" tvg-name="DAZN 3 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="ESPAÑA DEPORTES",DAZN 3 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKqIBi5JdBL7olJlI6mHTn8
+#EXTINF:-1 xui-id="4174" tvg-id="DAZN 3" tvg-name="DAZN 3 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="DAZN EVENTOS",DAZN 3 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKqIBi5JdBL7olJlI6mHTn8
+#EXTINF:-1 xui-id="4175" tvg-id="DAZN 3 HD" tvg-name="DAZN 3 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="ESPAÑA DAZN",DAZN 3 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCIF8yNSHvjDoSPfJXvLX0Y
+#EXTINF:-1 xui-id="4175" tvg-id="DAZN 3 HD" tvg-name="DAZN 3 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="ESPAÑA DEPORTES",DAZN 3 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCIF8yNSHvjDoSPfJXvLX0Y
+#EXTINF:-1 xui-id="4175" tvg-id="DAZN 3 HD" tvg-name="DAZN 3 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="DAZN EVENTOS",DAZN 3 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCIF8yNSHvjDoSPfJXvLX0Y
+#EXTINF:-1 xui-id="4176" tvg-id="DAZN 3 HD" tvg-name="DAZN 3 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="ESPAÑA DAZN",DAZN 3 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DIvt2UOlR_5Iq1p2aitufn0
+#EXTINF:-1 xui-id="4176" tvg-id="DAZN 3 HD" tvg-name="DAZN 3 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="ESPAÑA DEPORTES",DAZN 3 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DIvt2UOlR_5Iq1p2aitufn0
+#EXTINF:-1 xui-id="4176" tvg-id="DAZN 3 HD" tvg-name="DAZN 3 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="DAZN EVENTOS",DAZN 3 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DIvt2UOlR_5Iq1p2aitufn0
+#EXTINF:-1 xui-id="4177" tvg-id="DAZN 3 HD" tvg-name="DAZN 3 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="ESPAÑA DAZN",DAZN 3 FHD (x265)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DLTErygvmOxY_8KA1-5hfUE
+#EXTINF:-1 xui-id="4177" tvg-id="DAZN 3 HD" tvg-name="DAZN 3 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="ESPAÑA DEPORTES",DAZN 3 FHD (x265)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DLTErygvmOxY_8KA1-5hfUE
+#EXTINF:-1 xui-id="4177" tvg-id="DAZN 3 HD" tvg-name="DAZN 3 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="DAZN EVENTOS",DAZN 3 FHD (x265)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DLTErygvmOxY_8KA1-5hfUE
+#EXTINF:-1 xui-id="4178" tvg-id="DAZN 4" tvg-name="DAZN 4 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="ESPAÑA DAZN",DAZN 4 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPzQb2DePIpLrHesEMYU8Cg
+#EXTINF:-1 xui-id="4178" tvg-id="DAZN 4" tvg-name="DAZN 4 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="ESPAÑA DEPORTES",DAZN 4 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPzQb2DePIpLrHesEMYU8Cg
+#EXTINF:-1 xui-id="4178" tvg-id="DAZN 4" tvg-name="DAZN 4 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="DAZN EVENTOS",DAZN 4 SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPzQb2DePIpLrHesEMYU8Cg
+#EXTINF:-1 xui-id="4179" tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="ESPAÑA DAZN",DAZN 4 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DLQL5mbIbtCzfQUPWE_3pn4
+#EXTINF:-1 xui-id="4179" tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="ESPAÑA DEPORTES",DAZN 4 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DLQL5mbIbtCzfQUPWE_3pn4
+#EXTINF:-1 xui-id="4179" tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="DAZN EVENTOS",DAZN 4 HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DLQL5mbIbtCzfQUPWE_3pn4
+#EXTINF:-1 xui-id="4180" tvg-id="DAZN 4 HD" tvg-name="DAZN 4 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="ESPAÑA DAZN",DAZN 4 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DEa4sBKovdW0PH5U0IBtKXQ
+#EXTINF:-1 xui-id="4180" tvg-id="DAZN 4 HD" tvg-name="DAZN 4 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="ESPAÑA DEPORTES",DAZN 4 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DEa4sBKovdW0PH5U0IBtKXQ
+#EXTINF:-1 xui-id="4180" tvg-id="DAZN 4 HD" tvg-name="DAZN 4 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="DAZN EVENTOS",DAZN 4 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DEa4sBKovdW0PH5U0IBtKXQ
+#EXTINF:-1 xui-id="4181" tvg-id="DAZN 4 HD" tvg-name="DAZN 4 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="ESPAÑA DAZN",DAZN 4 FHD (x265)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DF7OPfF1jw8DtVSZtJFJBy0
+#EXTINF:-1 xui-id="4181" tvg-id="DAZN 4 HD" tvg-name="DAZN 4 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="ESPAÑA DEPORTES",DAZN 4 FHD (x265)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DF7OPfF1jw8DtVSZtJFJBy0
+#EXTINF:-1 xui-id="4181" tvg-id="DAZN 4 HD" tvg-name="DAZN 4 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="DAZN EVENTOS",DAZN 4 FHD (x265)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DF7OPfF1jw8DtVSZtJFJBy0
+#EXTINF:-1 xui-id="13232" tvg-id="M+LCAMPEON3" tvg-name="PDE- M. Liga Campeones 3" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoVD0SzETwa69p3-apzO3jqQ.png" group-title="ESPAÑA DEPORTES",PDE- M. Liga Campeones 3
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DByIJs7md4GGVbsH21UV6kx2XzykGNXMp24Z_UIGTg6l
+#EXTINF:-1 xui-id="13238" tvg-id="M+LCAMPEON4" tvg-name="PDE- M. Liga Campeones 4" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo24yoDLMBpRWE1bhw3SluHQ.png" group-title="ESPAÑA DEPORTES",PDE- M. Liga Campeones 4
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DI46WnJf47iZz89RspOlp7dwHgSCJLpqrzO9rUeXTD10
+#EXTINF:-1 xui-id="13239" tvg-id="M+LCAMPEON5" tvg-name="PDE- M. Liga Campeones 5" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoqPPBx5i1xCcag-aPnImj0w.png" group-title="ESPAÑA DEPORTES",PDE- M. Liga Campeones 5
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DLw1fGRxGdNPAcMHbNBu0xTffbRNbFpf_3GpriOfv-Ya
+#EXTINF:-1 xui-id="13240" tvg-id="M+LCAMPEON6" tvg-name="PDE- M. Liga Campeones 6" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqonmsFD7Bm9lffTvc4K1tG4w.png" group-title="ESPAÑA DEPORTES",PDE- M. Liga Campeones 6
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DHWmPxEyKFM6aOD4l2hnhLr0CAbvOCHPvQ685JzCNtzq
+#EXTINF:-1 xui-id="13241" tvg-id="M+LCAMPEON7" tvg-name="PDE- M. Liga Campeones 7" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqokIf-4tC5Xm0nEJDl6GH-Rw.png" group-title="ESPAÑA DEPORTES",PDE- M. Liga Campeones 7
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKthiMPA4N0x699KKX-PelRpwJaCfCwo14yPLhY5zEoK
+#EXTINF:-1 xui-id="17573" tvg-id="M+LCAMPEON8" tvg-name="SP: ES: M. Liga de Campeones 8" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoHsCUcBel7-TN7NEnDfBl2A.png" group-title="ESPAÑA DEPORTES",SP: ES: M. Liga de Campeones 8
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DK3ENrBPYSeBjy76TiWTUK-BfCm-1GORMLQvCH8o6ZA5
+#EXTINF:-1 xui-id="13243" tvg-id="M+DEPORTES4" tvg-name="MDE- M. Deporte 4" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqokZodY9mTWdxHy4o7Ug90XA.png" group-title="ESPAÑA DEPORTES",MDE- M. Deporte 4
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DImZwDhkEwN9DIHkhFPJ1sASyQ0Ztgdw4lo7H7WvwVgL
+#EXTINF:-1 xui-id="13244" tvg-id="M+DEPORTES5" tvg-name="MDE- M. Deporte 5" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo2Euzy2F3GWlFdlbmtkJeqw.png" group-title="ESPAÑA DEPORTES",MDE- M. Deporte 5
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKXyoDnt-aoAveJ1aOrj7Rcb021-LHSwx0k96NHVSAI7
+#EXTINF:-1 xui-id="13245" tvg-id="M+DEPORTES6" tvg-name="VDE- M. Deporte 6" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqopoQePEICE5d23zNMOzfO-A.png" group-title="ESPAÑA DEPORTES",VDE- M. Deporte 6
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJhIdrYve2hQYlQK7ciYqXLbJLmFHDn1AwkE-3vjnNzh
+#EXTINF:-1 xui-id="2557" tvg-id="" tvg-name="ES |  M. DEPORTES 7 (LIVEEVEENT)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoOKPiO9GqwKYePdMM5tLR3g.png" group-title="ESPAÑA DEPORTES",ES |  M. DEPORTES 7 (LIVEEVEENT)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DFc5gjrQxBeF7T-V-R0Ht5s
+#EXTINF:-1 xui-id="4188" tvg-id="DAZN F1 HD" tvg-name="DAZN F1 4K" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoICedO-yv6bQSR_rgcOVIXQ.png" group-title="ESPAÑA DAZN",DAZN F1 4K
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DAPK_1dUKPl1anYFbXf0iTU
+#EXTINF:-1 xui-id="4188" tvg-id="DAZN F1 HD" tvg-name="DAZN F1 4K" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoICedO-yv6bQSR_rgcOVIXQ.png" group-title="ESPAÑA DEPORTES",DAZN F1 4K
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DAPK_1dUKPl1anYFbXf0iTU
+#EXTINF:-1 xui-id="4188" tvg-id="DAZN F1 HD" tvg-name="DAZN F1 4K" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoICedO-yv6bQSR_rgcOVIXQ.png" group-title="DAZN EVENTOS",DAZN F1 4K
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DAPK_1dUKPl1anYFbXf0iTU
+#EXTINF:-1 xui-id="2494" tvg-id="" tvg-name="ES | Bein Sport HD (EN)" tvg-logo="http://quebuscasaqui.xyz:8080/images/95934acba9f03dd831d41d6b17c4044b.jpg" group-title="ESPAÑA DEPORTES",ES | Bein Sport HD (EN)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DEzd06ce_YKbGgAdfkt-8AA
+#EXTINF:-1 xui-id="2495" tvg-id="" tvg-name="ES | Bein Sports LaLiga" tvg-logo="http://quebuscasaqui.xyz:8080/images/95934acba9f03dd831d41d6b17c4044b.jpg" group-title="ESPAÑA DEPORTES",ES | Bein Sports LaLiga
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DDL2En17pJ5hUvj0csjQoeg
+#EXTINF:-1 xui-id="2486" tvg-id="" tvg-name="ES | beINSport LaLiga HD  ( SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/95934acba9f03dd831d41d6b17c4044b.jpg" group-title="ESPAÑA DEPORTES",ES | beINSport LaLiga HD  ( SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DHPI26xlxpbwGLEThRNsR70
+#EXTINF:-1 xui-id="4082" tvg-id="LALIGATV BAR" tvg-name="LALIGA | LALIGA BAR SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/YGhGWb4ML7f3YKeTB1Fmyofh5830B_yM3CNbjsmUbnQOmAwcyB1JNRCYvf73lhRPc2QPltTU7abhHiKY_ye5cQ.jpg" group-title="ESPAÑA LALIGA",LALIGA | LALIGA BAR SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DAEf3Y6zLUSmMqrDlmu-4hk
+#EXTINF:-1 xui-id="4084" tvg-id="LALIGATV BAR" tvg-name="LALIGA | TV BAR EXCLUSIVO" tvg-logo="http://quebuscasaqui.xyz:8080/images/YGhGWb4ML7f3YKeTB1Fmyofh5830B_yM3CNbjsmUbnQOmAwcyB1JNRCYvf73lhRPc2QPltTU7abhHiKY_ye5cQ.jpg" group-title="ESPAÑA LALIGA",LALIGA | TV BAR EXCLUSIVO
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DOGT3EFe2FxcaG6fYnv7gsc
+#EXTINF:-1 xui-id="4083" tvg-id="LALIGATV BAR" tvg-name="LALIGA | TV BAR EXCLUSIVO 2" tvg-logo="http://quebuscasaqui.xyz:8080/images/YGhGWb4ML7f3YKeTB1Fmyofh5830B_yM3CNbjsmUbnQOmAwcyB1JNRCYvf73lhRPc2QPltTU7abhHiKY_ye5cQ.jpg" group-title="ESPAÑA LALIGA",LALIGA | TV BAR EXCLUSIVO 2
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DOw-PaoAhQAaTe9e5fCUGw4
+#EXTINF:-1 xui-id="2511" tvg-id="LALIGATVBAR1" tvg-name="ES | LA LIGA TV BAR 1 [LIVE-EVENT]" tvg-logo="http://quebuscasaqui.xyz:8080/images/95934acba9f03dd831d41d6b17c4044b.jpg" group-title="ESPAÑA DEPORTES",ES | LA LIGA TV BAR 1 [LIVE-EVENT]
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DBeY4AtrpFbZj_XBfuRTGV8
+#EXTINF:-1 xui-id="2512" tvg-id="LALIGATVBAR2" tvg-name="ES | LA LIGA TV BAR 2 (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/95934acba9f03dd831d41d6b17c4044b.jpg" group-title="ESPAÑA DEPORTES",ES | LA LIGA TV BAR 2 (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DFyeOwOdzU_vco9hjWow8SU
+#EXTINF:-1 xui-id="2514" tvg-id="LALIGATVBAR4" tvg-name="ES | LA LIGA TV BAR 4 (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/95934acba9f03dd831d41d6b17c4044b.jpg" group-title="ESPAÑA DEPORTES",ES | LA LIGA TV BAR 4 (SOLO EVENTOS)
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPaljsHXuGZVTLQfPx1ysMM
+#EXTINF:-1 xui-id="2478" tvg-id="Levante TV" tvg-name="*ES Levante TV" tvg-logo="http://quebuscasaqui.xyz:8080/images/sfBeOU9DwIZoyeEx96V5s_-svCOi-zSPg3P_u3vYPYQ-kR3rqG8KO8n3B5nf8bK_W3kgycGyl4bcSgFJPSOAybd16Uqgzi119Y32PhgVwnM.jpg" group-title="ESPAÑA DEPORTES",*ES Levante TV
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DOLFASaNWZuyPVxiGkcBiDE
+#EXTINF:-1 xui-id="2465" tvg-id="VIAJAR" tvg-name="ESPAÑA  | VIAJAR SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/0c72be779d8f265e501ba2a47d7895cf.jpg" group-title="ESPAÑA",ESPAÑA  | VIAJAR SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DAA6WJxS20mnhndfbr-MtHI
+#EXTINF:-1 xui-id="2411" tvg-id="VIAJAR" tvg-name="ESPAÑA | VIAJAR HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/0c72be779d8f265e501ba2a47d7895cf.jpg" group-title="ESPAÑA",ESPAÑA | VIAJAR HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DAM3WbVeMZMwDl2adF6ONoE
+#EXTINF:-1 xui-id="2464" tvg-id="VIAJAR" tvg-name="ESPAÑA  | VIAJAR FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/48fd3a9c4340e77f1316eba35ff6293f.jpg" group-title="ESPAÑA",ESPAÑA  | VIAJAR FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCYSEZ_j5JJbLAZcXeuWjSY
+#EXTINF:-1 xui-id="2413" tvg-id="CAZAVS" tvg-name="ESPAÑA | Cazavision FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t1Ws52tbIQHq4tSd849NdOfcRMVo-sS6wm43Uzj-aw35w.png" group-title="ESPAÑA",ESPAÑA | Cazavision FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCpsiN2Baubw4okyzvCmAzU
+#EXTINF:-1 xui-id="2383" tvg-id="DXDME" tvg-name="ESPAÑA | Disney XD HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/ebafddf810becc7ad61e7c1ec155bf12.png" group-title="ESPAÑA",ESPAÑA | Disney XD HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DCle2Vc6XSI6Qxo48N-8tOc
+#EXTINF:-1 xui-id="2402" tvg-id="" tvg-name="ESPAÑA | Distrito TV" tvg-logo="http://quebuscasaqui.xyz:8080/images/07fc37499945ca16bf3d27c3df5b8dae.jpg" group-title="ESPAÑA",ESPAÑA | Distrito TV
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DBvPWXJcxDtfhaVYh3SPZok
+#EXTINF:-1 xui-id="2570" tvg-id="FXLARGE" tvg-name="ESPAÑA | FOX Life HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/9b482c92fc3ca0738b91cc276421a286.png" group-title="ESPAÑA CINE",ESPAÑA | FOX Life HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DM2ZqspIGW6LtEr1jkLIH90
+#EXTINF:-1 xui-id="2389" tvg-id="TVEINTS" tvg-name="ESPAÑA | TVE Internacional HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t0NV4-br71A4HlepFcBmoHeWeUjEOzQfQESdOdOOP1YaA.png" group-title="ESPAÑA",ESPAÑA | TVE Internacional HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DC0Ztij7fGWc3PYMbjP9boo
+#EXTINF:-1 xui-id="4075" tvg-id="" tvg-name="LALIGA | SKY SPORTS LALIGA" tvg-logo="http://quebuscasaqui.xyz:8080/images/LQ8qATgZ-BQ8GBFiShH0YvMtbh6CK74nhIbN8ayb5lN07ETtB05NDhN4ZFoW9qepp7hpBsB2qLc711WuXgyn3isxHJZZdv0o91lI8eM8jYVdAA1IQbyOmwgYdnyHeJHljGvVNJt86npchQq0odZQ3t9E9YlvQ0gtEwb4V1JYJ_SojQ8LVP_t1979DkzKvWns.png" group-title="ESPAÑA LALIGA",LALIGA | SKY SPORTS LALIGA
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DMft80So8NFY7N_loU2tiz8
+#EXTINF:-1 xui-id="4311" tvg-id="MULTIDEPORTE" tvg-name="ES | Multideportes" tvg-logo="http://quebuscasaqui.xyz:8080/images/QQRUFJ59_B6awbbF9hU-rYw_tcQoRae5bw919pB0zhAoMPH5M2V03UHSDPFe7NOlZLnhgIH8UMUlsiWMD12J5g.png" group-title="ESPAÑA DEPORTES",ES | Multideportes
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DBIn00btsZIVse4rbtuOlxg
+#EXTINF:-1 xui-id="18577" tvg-id="" tvg-name="ES: FOOTTERS 01 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-sG4120eHRiy0Yn7iDUkdOpOZREwqI8RFaei6A6Id7cSvz598rAcFe6AgS6I48pRdiWg&usqp=CAU" group-title="FOOTTERS",ES: FOOTTERS 01 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DBvIEiffbs5pgYy-W4gWgA1nor2fm2Lh5cy0Migy3EcT
+#EXTINF:-1 xui-id="18578" tvg-id="" tvg-name="ES: FOOTTERS 02 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 02 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DOHAK1cyLEb9ocx4604sprAgZPe7o1R0dGWY98wZSufb
+#EXTINF:-1 xui-id="18579" tvg-id="" tvg-name="ES: FOOTTERS 03 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 03 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DD2_zzlMrh6uH7qOfp3djrlZjVtlNuoO3L0tUBfBPqj8
+#EXTINF:-1 xui-id="18580" tvg-id="" tvg-name="ES: FOOTTERS 04 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 04 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DChCQ-H-ubJlyVKbQiwTHAAp3EwbNU7Qnt3Mv8KZstje
+#EXTINF:-1 xui-id="18581" tvg-id="" tvg-name="ES: FOOTTERS 05 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 05 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DA8j-l-SJieMCmBd74aS8LOT0mAmTN8uoSqyz7DFu6yR
+#EXTINF:-1 xui-id="18582" tvg-id="" tvg-name="ES: FOOTTERS 06 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 06 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DIt0HYP6RDSa3c5WrZyEaz3mzhuM-nOjDr9RHiET1s59
+#EXTINF:-1 xui-id="18583" tvg-id="" tvg-name="ES: FOOTTERS 07 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 07 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKFWjTVPeGSRFmCZfP-nk3fWxLJSuGwkxEfo3-iqzoSZ
+#EXTINF:-1 xui-id="18584" tvg-id="" tvg-name="ES: FOOTTERS 08 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 08 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DDunR6UBKurDfguERI7JRHFGSFDC49tLifJyJzo8CRFI
+#EXTINF:-1 xui-id="18585" tvg-id="" tvg-name="ES: FOOTTERS 09 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 09 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DM2Mw2JsQihxjQ3iQY3n0U_dSuusde1Z_5dqRdMcomD5
+#EXTINF:-1 xui-id="18586" tvg-id="" tvg-name="ES: FOOTTERS 10 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 10 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DBYrqj5bhU6Sqs7bC53WEGanTn7pCeEsBz12Sw7UBJS3
+#EXTINF:-1 xui-id="18587" tvg-id="" tvg-name="ES: FOOTTERS 11 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 11 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DE5M8rfh3TSt2M7ETp3twQJT2plM5BhGuNC8lgipfs3m
+#EXTINF:-1 xui-id="18588" tvg-id="" tvg-name="ES: FOOTTERS 12 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 12 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKUEIOJRyiS6j5QCvBcVg--nZPf6uoaL7JzngxGfdpDd
+#EXTINF:-1 xui-id="18589" tvg-id="" tvg-name="ES: FOOTTERS 13 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 13 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJ3bUtJvnnVe5EseCiSdO4KJMWX4t4snnVbgz02ssUEk
+#EXTINF:-1 xui-id="18590" tvg-id="" tvg-name="ES: FOOTTERS 14 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 14 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DNPiAbaUt9MC_bwNZJ1IcWjXfTcbLHq6LtfRmuz5a5Nt
+#EXTINF:-1 xui-id="18591" tvg-id="" tvg-name="ES: FOOTTERS 15 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 15 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DHyCC-rLtAqRmaLfzfLwLrDePEvF-F-rNVDzGbhsVDzc
+#EXTINF:-1 xui-id="18592" tvg-id="" tvg-name="ES: FOOTTERS 16 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 16 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DFIflkU2GHwiZFiFox3HzyYtqVPnJ4U4FNszFt7D_8Tw
+#EXTINF:-1 xui-id="18593" tvg-id="" tvg-name="ES: FOOTTERS 17 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 17 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DB1fHBgPCGhU2y49ygQUpZrIINEs7XIT--QIIsMjQvoo
+#EXTINF:-1 xui-id="18594" tvg-id="" tvg-name="ES: FOOTTERS 18 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 18 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DHBlrEG0KI9UDS1P_PnrAY_6BTnYm8QshcTR7l0iIwKg
+#EXTINF:-1 xui-id="18595" tvg-id="" tvg-name="ES: FOOTTERS 19 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 19 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJ5dpxxkODLvEMy28oH8sBuqYZLXfi6bkyqxchoLsMIZ
+#EXTINF:-1 xui-id="18596" tvg-id="" tvg-name="ES: FOOTTERS 20 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 20 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DIvHUx4QPTaDtrWuUfC0CZrwGeE8uc7hyLn-2eJLRSMm
+#EXTINF:-1 xui-id="18597" tvg-id="" tvg-name="ES: FOOTTERS 21 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 21 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DOSP88HtPxsjEORjFHWIUpkPG8Q7hN2G3HkCKKWOOMnK
+#EXTINF:-1 xui-id="18598" tvg-id="" tvg-name="ES: FOOTTERS 22 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 22 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DLThJhTovhlDwcbPpj2KiK4_Hl9T6U0524KVu1MWFDkI
+#EXTINF:-1 xui-id="18599" tvg-id="" tvg-name="ES: FOOTTERS 23 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 23 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DMhgnDBrMDkE_WG35lMfocIFvigm3SkqMHWZXYqR3nEx
+#EXTINF:-1 xui-id="18600" tvg-id="" tvg-name="ES: FOOTTERS 24 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 24 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKEI4ukMLlaSv-MTZHflgl1MJERnOvAPcZaT0znm3iZg
+#EXTINF:-1 xui-id="18601" tvg-id="" tvg-name="ES: FOOTTERS 25 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/Jpm_XV9XV2k1A3HvkxdTxbuKe7XBzjC0LdfNeNbMH8WMao1ooAZnRV3Xbc43kklnxIJSpX2nX70xWqvhiV9-tRoHjuW8oMsAvFzsWIsAJjI2Btsl5Obqp3vDaPVPOVuQyQKbYpPsDJLqpDyKGNLI5e8NR07X3Bh_jXxb_RuWGH0mt2bJoXha0Pc2ha1e5036.jpeg" group-title="FOOTTERS",ES: FOOTTERS 25 FHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGk9QJ5dcgCo87lIiIqD_1sut_Opm3brpIr703U4uQbk
+#EXTINF:-1 xui-id="391" tvg-id="FIACNL" tvg-name="NL:  FILM 1 ACTION | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2020/01/FILM-1-ACTION.png" group-title="HOLANDA",NL:  FILM 1 ACTION | UHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DHUTtoAQpwnpEFz2D5mYZ2E
+#EXTINF:-1 xui-id="3130" tvg-id="SBS6NL" tvg-name="NL:  SBS 6 | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/SBS-6.png" group-title="HOLANDA",NL:  SBS 6 | HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DMXgFPlRu92LXYDz3xhXe3Q
+#EXTINF:-1 xui-id="3089" tvg-id="24KITNL" tvg-name="NL: 24 KITCHEN | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/24-KITCHEN.png" group-title="HOLANDA",NL: 24 KITCHEN | UHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPgw0buUc6YYQ5dWJDJiIuk
+#EXTINF:-1 xui-id="3090" tvg-id="CANWNL" tvg-name="NL: CARTOON NETWORK | SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/e02b68d0eff019e19caa0b35425441b2.jpg" group-title="HOLANDA",NL: CARTOON NETWORK | SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DE1cWhZWgplY-w9VbmsrmUg
+#EXTINF:-1 xui-id="3091" tvg-id="CANWNL" tvg-name="NL: CARTOON NETWORK | UHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/e02b68d0eff019e19caa0b35425441b2.jpg" group-title="HOLANDA",NL: CARTOON NETWORK | UHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJYX6r9dmSv0SAkuhv-2eY0
+#EXTINF:-1 xui-id="3092" tvg-id="CCEXNL" tvg-name="NL: COMEDY CENTRAL EXTRA | SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/5c35c66cadf18bea8f5f4606d19fd244.jpg" group-title="HOLANDA",NL: COMEDY CENTRAL EXTRA | SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DKbZucVznkw8lgfJSO93QeY
+#EXTINF:-1 xui-id="3093" tvg-id="COMCENL" tvg-name="NL: COMEDY CENTRAL | UHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/5c35c66cadf18bea8f5f4606d19fd244.jpg" group-title="HOLANDA",NL: COMEDY CENTRAL | UHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DOa2MQ6SYKvmMEi31PqMCRM
+#EXTINF:-1 xui-id="3094" tvg-id="CINLZ" tvg-name="NL: CRIME & INVESTIGATION | SD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/CrimeInvestigation.jpg" group-title="HOLANDA",NL: CRIME & INVESTIGATION | SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJ1X1rRdrdm6LjZi1E7xtGI
+#EXTINF:-1 xui-id="3095" tvg-id="" tvg-name="NL: DISCOVERY | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Discovery.png" group-title="HOLANDA",NL: DISCOVERY | HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DMU3r9iBVLVfyPTBD6Kj6Ao
+#EXTINF:-1 xui-id="3096" tvg-id="DISCHNL" tvg-name="NL: DISNEY CHANNEL | SD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/Disney_Channel_Germany_Logo_2014.png" group-title="HOLANDA",NL: DISNEY CHANNEL | SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DDbImXkbLVrUOBSGifbcnCg
+#EXTINF:-1 xui-id="3097" tvg-id="DJRMTMC" tvg-name="NL: DISNEY JUNIOR | SD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/12/Disney_Junior_Logo.png" group-title="HOLANDA",NL: DISNEY JUNIOR | SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DDy8yfqDZcTPuzAxAW46m70
+#EXTINF:-1 xui-id="3098" tvg-id="ETVINT" tvg-name="NL: E! ENTERTAINMENT | UHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/7ff106515b56d035556eee106a1ae22d.jpg" group-title="HOLANDA",NL: E! ENTERTAINMENT | UHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DA8jhlGlWNMGhYJTd4pSXCI
+#EXTINF:-1 xui-id="3099" tvg-id="FILM1PR" tvg-name="NL: FILM 1 PREMIERE | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2020/01/FILM-1-PREMIERE.jpg" group-title="HOLANDA",NL: FILM 1 PREMIERE | HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DK9J6hWQvWgg0QVLVcLvgnU
+#EXTINF:-1 xui-id="3100" tvg-id="" tvg-name="NL: FILM 1 SUNDANCE | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2020/01/FILM-1-SUNDANCE.jpg" group-title="HOLANDA",NL: FILM 1 SUNDANCE | HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DEXIxytqoxLoQH90yOMGqF0
+#EXTINF:-1 xui-id="3101" tvg-id="FILDRNL" tvg-name="NL: FILM DRAMA | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/Film1-Drama.jpg" group-title="HOLANDA",NL: FILM DRAMA | HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DDTchaPO4xLncYC9f5JFP_M
+#EXTINF:-1 xui-id="3102" tvg-id="FILFANL" tvg-name="NL: FILM FAMILY | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/Film1-Family.jpg" group-title="HOLANDA",NL: FILM FAMILY | HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DLp-00ogkpdHHjJ9h8De7fY
+#EXTINF:-1 xui-id="3103" tvg-id="FXSP1NL" tvg-name="NL: FOX SPORTS 1 | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2020/01/FOX-SPORTS-1.png" group-title="HOLANDA",NL: FOX SPORTS 1 | HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGN_tNTu1wQN3qY9pZWwIbc
+#EXTINF:-1 xui-id="3104" tvg-id="FS2" tvg-name="NL: FOX SPORTS 2 | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/Fox-Sports-2.png" group-title="HOLANDA",NL: FOX SPORTS 2 | HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DAaVdVzb_BQ0Jhw5it9wu2U
+#EXTINF:-1 xui-id="3105" tvg-id="FXSP3NL" tvg-name="NL: FOX SPORTS 3 | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/1280px-Fox_sports_3_logo.svg_.png" group-title="HOLANDA",NL: FOX SPORTS 3 | HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DO1KhSRr5SsgJLf-d9lX7Ag
+#EXTINF:-1 xui-id="3106" tvg-id="FSSOK4" tvg-name="NL: FOX SPORTS 4 | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/Fox-Sports-4.png" group-title="HOLANDA",NL: FOX SPORTS 4 | HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DPLMpXNBQkfVeeMkadPP8HI
+#EXTINF:-1 xui-id="3107" tvg-id="FXSP5NL" tvg-name="NL: FOX SPORTS 5 | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/FoxSPORTS506.png" group-title="HOLANDA",NL: FOX SPORTS 5 | HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DA3dndrG_k8mHTpV1WQE7Yo
+#EXTINF:-1 xui-id="3108" tvg-id="F506ANZ" tvg-name="NL: FOX SPORTS 6 | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/FOX_Sports_logo.svg_.png" group-title="HOLANDA",NL: FOX SPORTS 6 | HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DJS78xlyG3T6Edtyq0y7JmE
+#EXTINF:-1 xui-id="3109" tvg-id="FOXNL" tvg-name="NL: FOX | UHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/11c6f05e6a8fc6f096d225d4fa702e8e.jpg" group-title="HOLANDA",NL: FOX | UHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGOJFTwTT5WZ3XYQszf1ERg
+#EXTINF:-1 xui-id="3110" tvg-id="MTVNL" tvg-name="NL: MTV | SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/d179f5f632c98f5060da0bc8811c4ebb.jpg" group-title="HOLANDA",NL: MTV | SD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DGHgjwi3WvOJeCL6DZzxeYA
+#EXTINF:-1 xui-id="3111" tvg-id="NGWNL" tvg-name="NL: NAT GEO WILD | HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/8b8e9b2358b7dec8521b7b7faceb99d3.jpg" group-title="HOLANDA",NL: NAT GEO WILD | HD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DEPywdwDv6PrNBnhFwl62kM
+#EXTINF:-1 xui-id="3112" tvg-id="NGNLHD" tvg-name="NL: NATIONAL GEOGRAPHIC | UHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/c1a9deef4067408894815c2a2e235c60.jpg" group-title="HOLANDA",NL: NATIONAL GEOGRAPHIC | UHD
+http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DC0laT90EtEOR9L_bD4a71E
